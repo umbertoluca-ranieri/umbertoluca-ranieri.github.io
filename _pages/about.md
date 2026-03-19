@@ -28,3 +28,5 @@ latest_posts:
 ---
 
 I am an independent Research Fellow ("Gipuzkoa Fellow") in the Quantum Beams & Computation for Sustainable Materials group at MPC. 
+
+My research focuses on revealing microscopic structural and dynamical properties using scattering experiments combined with advanced sample environments. I am an expert user of large-scale facilities, including synchrotron and neutron sources.
