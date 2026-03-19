@@ -1,6 +1,6 @@
 ---
-layout: Home
-title: Home
+layout: about
+title: about
 permalink: /
 subtitle: The personal webpage of Dr. Umbertoluca Ranieri.
 
