@@ -2,7 +2,7 @@
 layout: Home
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: The personal webpage of Dr. Umbertoluca Ranieri.
 
 profile:
   align: right
@@ -26,8 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-Welcome! You have reached the personal webpage of Dr. Umbertoluca Ranieri.
 
 I am an independent Research Fellow ("Gipuzkoa Fellow") in the Quantum Beams & Computation for Sustainable Materials group at MPC. 
 
