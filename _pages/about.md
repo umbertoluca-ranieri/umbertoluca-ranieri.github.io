@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: The personal webpage of Dr. Umbertoluca Ranieri.
+subtitle: My personal webpage
 
 profile:
   align: right
