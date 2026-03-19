@@ -497,6 +497,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=uIu5NpIAAAAJ&hl=en", "_blank");
         },
       },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://cfm.ehu.es/es/team/umbertoluca-ranieri/", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
