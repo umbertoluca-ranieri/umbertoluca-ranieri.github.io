@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: Contact details
+title: Contact
 # description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 4
