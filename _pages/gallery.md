@@ -7,14 +7,19 @@ nav: true
 nav_order: 4
 ---
 
-<div class="container">
-<div class="row">
-  <div class="col-md-4">.col-md-4</div>
-  <img src="../assets/img/5.jpg?raw=true" class="img-circle" alt="Cinque Terre">
-  <div class="col-md-4">.col-md-4</div>
-   <img src="../assets/img/1.jpg?raw=true" class="img-circle" alt="Cinque Terre">
-  <div class="col-md-4">.col-md-4</div>
-  <img src="../assets/img/2.jpg?raw=true" class="img-circle" alt="Cinque Terre">
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-md-4">
+      <img src="assets/img/5.jpg" class="img-fluid" alt="Image 1">
+    </div>
+    <div class="col-md-4">
+      <img src="assets/img/2.jpg" class="img-fluid" alt="Image 2">
+    </div>
+    <div class="col-md-4">
+      <img src="assets/img/12.jpg" class="img-fluid" alt="Image 3">
+    </div>
+  </div>
 </div>
-</div>
+
+
 
