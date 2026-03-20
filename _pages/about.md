@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: My personal webpage
+subtitle: Welcome to my personal webpage!
 
 profile:
   align: right
@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an independent Research Fellow ("Gipuzkoa Fellow") in the [Quantum Beams & Computation for Sustainable Materials group](https://qbcsm.github.io/) at MPC. 
+I am a scientist interested in various aspects of experimental condensed matter physics.
 
-My position is funded by the Diputación Foral de Gipuzkoa.  
+I am currently an independent Research Fellow ("Gipuzkoa Fellow") in the [Quantum Beams & Computation for Sustainable Materials group](https://qbcsm.github.io/) at MPC. This position is funded by the Diputación Foral de Gipuzkoa.  
 
-As a scientist, I am interested in various aspects of experimental condensed matter physics.  
+  
 
   
 
