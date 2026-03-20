@@ -7,4 +7,4 @@ nav: true
 nav_order: 2
 ---
 
-Under construction...
+My research focuses on the microscopic structural and dynamical properties of matter under extreme conditions. I am frequently using large-scale facilities, including synchrotron and neutron sources, for my experiments.
