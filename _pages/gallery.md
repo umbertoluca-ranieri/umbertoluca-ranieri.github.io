@@ -7,10 +7,10 @@ nav: true
 nav_order: 4
 ---
 
-<div class="container">
+<div class="container-fluid">
   <div class="row">
     <div class="col">
-      <img src="../assets/img/12.jpg?raw=true" class="img-circle" alt="Cinque Terre">
+      <img src="../assets/img/5.jpg?raw=true" class="img-circle" alt="Cinque Terre">
     </div>
     <div class="col">
       <img src="../assets/img/1.jpg?raw=true" class="img-circle" alt="Cinque Terre">
