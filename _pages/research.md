@@ -10,9 +10,9 @@ nav_order: 2
 My research focuses on the microscopic structural and dynamical properties of matter under extreme conditions. I am frequently using large-scale facilities, including synchrotron and neutron sources, for my experiments.  
 
 I am interested in the following topics:
-- Phase diagrams of small molecules under extreme conditions  
+- Phase diagram of small molecules under extreme conditions  
 - Reactivity and polymorphism
-- Molecular water science and clathrates
-- Dynamical disorder in solids
+- Water and clathrates
+- Dynamical disorder in crystalline solids
 - In-situ and kinetics studies
 - Hydrogen bonding and nuclear quantum effects
