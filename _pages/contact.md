@@ -8,7 +8,8 @@ nav_order: 4
 # calendar: true
 ---
 
-If you would like to talk, request further information or propose a project, do not hesitate to contact me!
+If you would like to talk, request further information or propose a project, do not hesitate to contact me!  
+  
 
 <ins>Address:</ins>  
 Centro de Física de Materiales  
