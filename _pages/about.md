@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an independent Research Fellow ("Gipuzkoa Fellow") in the Quantum Beams & Computation for Sustainable Materials group at MPC. 
+I am an independent Research Fellow ("Gipuzkoa Fellow") in the [Quantum Beams & Computation for Sustainable Materials group](https://qbcsm.github.io/) at MPC. 
 
 My position is funded by the Diputación Foral de Gipuzkoa.
 
