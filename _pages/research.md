@@ -12,6 +12,7 @@ My research focuses on the microscopic structural and dynamical properties of ma
 I am interested in the following topics:
 - Phase diagrams of small molecules under extreme conditions  
 - Reactivity and polymorphism
+- Molecular water science and clathrates
 - Dynamical disorder in solids
 - In-situ and kinetics studies
 - Hydrogen bonding and nuclear quantum effects
