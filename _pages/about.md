@@ -31,6 +31,10 @@ I am an independent Research Fellow ("Gipuzkoa Fellow") in the [Quantum Beams & 
 
 My position is funded by the Diputación Foral de Gipuzkoa.  
 
+As a scientist, I am interested in various aspects of experimental condensed matter physics.  
+
+  
+
 
     
 
