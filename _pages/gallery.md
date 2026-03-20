@@ -10,7 +10,7 @@ nav_order: 4
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      img: /assets/img/12.jpg
+      ![](assets/img/12.jpg)
     </div>
     <div class="col-sm">
       img: /assets/img/2.jpg
