@@ -10,16 +10,16 @@ nav_order: 4
 
 If you would like to talk, request further information or propose a project, do not hesitate to contact me!
 
-Address:
+<ins>Address:</ins>
 
 Centro de Física de Materiales
 Paseo Manuel de Lardizabal, 5
 San Sebastián (Guipuzcoa), 20018
 
-Office Phone:
+<ins>Office Phone:</ins>
 
 +34 943 01 8715
 
-E-mail:
+<ins>E-mail:</ins>
 
 umbertoluca.ranieri[at]ehu.eus
