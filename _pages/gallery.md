@@ -9,16 +9,10 @@ nav_order: 4
 
 ![](../assets/img/12.jpg?raw=true)
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      ![](../assets/img/12.jpg?raw=true)
-    </div>
-    <div class="col-sm">
-      img: /assets/img/2.jpg
-    </div>
-    <div class="col-sm">
-      img: /assets/img/1.jpg
-    </div>
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+       </div>
   </div>
-</div>
+    <div class="row row-cols-1 row-cols-md-3">
+     </div>
+  </div>
