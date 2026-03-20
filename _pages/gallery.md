@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 permalink: /gallery/
-description: Some photos taken in the lab over the years...
+description: Some photos I took in the lab over the years...
 nav: true
 nav_order: 4
 ---
