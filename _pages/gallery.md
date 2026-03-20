@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <div class="container mt-4">
-  <div class="row">
+  <div class="row g-3">
     <div class="col-md-4">
       <img src="../assets/img/5.jpg" class="img-fluid" alt="Image 1">
     </div>
