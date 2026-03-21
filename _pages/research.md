@@ -14,6 +14,6 @@ I am interested in the following topics:
 - Dynamical disorder in crystalline solids
 - Molecular diffusion in compressed fluids
 - Reactivity and polymorphism
-- Pressure-temperature phase diagram of small molecules
+- Pressure–temperature phase diagram of small molecules
 - In-situ and kinetics studies
 - Hydrogen bonding and nuclear quantum effects
