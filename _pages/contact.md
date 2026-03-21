@@ -8,7 +8,7 @@ nav_order: 6
 # calendar: true
 ---
 
-If you would like to talk, request further information or propose a project, do not hesitate to contact me!  
+If you would like to talk, request further information or start collaborating, do not hesitate to contact me!  
 
   
   
