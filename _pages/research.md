@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-My research focuses on the microscopic structural and dynamical properties of matter under extreme conditions. I am frequently using large-scale facilities for my experiments, including synchrotron and neutron sources.  
+My research focuses on the microscopic structural and dynamical properties of matter under extreme conditions. I am frequently using large-scale facilities for my experiments, including synchrotrons and neutron sources.  
 
 I am interested in the following topics:
 - Phase diagram of small molecules under extreme conditions  
