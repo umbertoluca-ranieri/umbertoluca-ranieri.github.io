@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
