@@ -18,5 +18,5 @@ I am interested in the following topics:
 - Pressure–temperature phase diagram of small molecules
 - Synthesis and structural characterization of new compounds
 - Materials for energy applications
-# - In-situ and kinetics studies
 
+# - In-situ and kinetics studies
