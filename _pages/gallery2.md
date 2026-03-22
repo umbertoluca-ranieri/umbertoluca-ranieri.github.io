@@ -4,7 +4,7 @@ title: Gallery2
 permalink: /gallery2/
 description: Some photos I took in the lab over the years
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 
