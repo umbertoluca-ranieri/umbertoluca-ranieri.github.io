@@ -16,6 +16,7 @@ I am interested in the following topics:
 - Confined H<sub>2</sub>, nuclear quantum effects
 - Reactivity and polymorphism
 - Pressure–temperature phase diagram of small molecules
-- Synthesis and characterization of new functional materials
-- In-situ and kinetics studies
+- Synthesis and structural characterization of new compounds
+- Materials for energy applications
+# - In-situ and kinetics studies
 
