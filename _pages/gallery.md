@@ -67,6 +67,14 @@ nav_order: 4
       <img src="../assets/img/1.jpg" class="img-fluid rounded">
     </a>
 
+    <a href="../assets/img/1.jpg" data-lightbox="gallery">
+      <img src="../assets/img/1.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/1.jpg" data-lightbox="gallery">
+      <img src="../assets/img/1.jpg" class="img-fluid rounded">
+    </a>
+    
   </div>
 </div>
 
