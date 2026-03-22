@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gallery
-permalink: /gallery/
+title: Gallery_old
+permalink: /gallery_old/
 description: Some photos I took in the lab over the years...
 nav: false
 nav_order: 4
