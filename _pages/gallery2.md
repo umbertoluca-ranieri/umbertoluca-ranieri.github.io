@@ -53,19 +53,19 @@ nav_order: 5
 <div class="container mt-4">
   <div class="masonry">
 
-    <a href="https://via.placeholder.com/800x600" data-lightbox="gallery">
+    <a img src="../assets/img/3.jpg" data-lightbox="gallery">
       <img src="../assets/img/3.jpg" class="img-fluid rounded" alt="Image 1">
     </a>
 
-    <a href="https://via.placeholder.com/800x1000" data-lightbox="gallery">
+    <a img src="../assets/img/5.jpg" data-lightbox="gallery">
       <img src="../assets/img/5.jpg" class="img-fluid rounded" alt="Image 1">
     </a>
 
-    <a href="https://via.placeholder.com/800x500" data-lightbox="gallery">
+    <a img src="../assets/img/2.jpg" data-lightbox="gallery">
       <img src="../assets/img/2.jpg" class="img-fluid rounded" alt="Image 1">
     </a>
 
-    <a href="https://via.placeholder.com/800x900" data-lightbox="gallery">
+    <a img src="../assets/img/1.jpg" data-lightbox="gallery">
       <img src="../assets/img/1.jpg" class="img-fluid rounded" alt="Image 1">
     </a>
 
