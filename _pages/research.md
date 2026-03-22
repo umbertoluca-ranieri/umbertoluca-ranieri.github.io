@@ -13,7 +13,7 @@ I am interested in the following topics:
 - Water and clathrates, hydrogen bonding  
 - Dynamical disorder in crystalline solids
 - Molecular diffusion in compressed fluids
-- Quantum transitions of confined H<sub>2</sub>, nuclear quantum effects
 - Reactivity and polymorphism in simple model systems
 - Pressure–temperature phase diagram of small molecules
 - Synthesis and structural characterization of new compounds
+- Quantum transitions of confined H<sub>2</sub>, nuclear quantum effects
