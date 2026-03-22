@@ -74,6 +74,14 @@ nav_order: 4
         <a href="../assets/IMG_20240613_165804_221.jpg" data-lightbox="gallery">
       <img src="../assets/IMG_20240613_165804_221.jpg" class="img-fluid rounded">
     </a>
+
+        <a href="../assets/UR012_P03 LH3 cylinder after.jpg" data-lightbox="gallery">
+      <img src="../assets/UR012_P03 LH3 cylinder after.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/cell3.png" data-lightbox="gallery">
+      <img src="../assets/cell3.png" class="img-fluid rounded">
+    </a>
     
   </div>
 </div>
