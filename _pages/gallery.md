@@ -51,28 +51,28 @@ nav_order: 4
 <div class="container-fluid px-3 mt-4">  <!-- FIXED -->
   <div class="masonry">
 
-    <a href="../assets/img/3.jpg" data-lightbox="gallery">
-      <img src="../assets/img/3.jpg" class="img-fluid rounded">
+    <a href="../assets/IMG-20210215-WA0000.jpeg" data-lightbox="gallery">
+      <img src="../assets/IMG-20210215-WA0000.jpeg" class="img-fluid rounded">
     </a>
 
-    <a href="../assets/img/5.jpg" data-lightbox="gallery">
-      <img src="../assets/img/5.jpg" class="img-fluid rounded">
+    <a href="../assets/IMG-20220925-WA0000.jpg" data-lightbox="gallery">
+      <img src="../assets/IMG-20220925-WA0000.jpg" class="img-fluid rounded">
     </a>
 
-    <a href="../assets/img/2.jpg" data-lightbox="gallery">
-      <img src="../assets/img/2.jpg" class="img-fluid rounded">
+    <a href="../assets/IMG-20240125-WA0000.jpg" data-lightbox="gallery">
+      <img src="../assets/IMG-20240125-WA0000.jpg" class="img-fluid rounded">
     </a>
 
-    <a href="../assets/img/1.jpg" data-lightbox="gallery">
-      <img src="../assets/img/1.jpg" class="img-fluid rounded">
+    <a href="../assets/IMG-20241031-WA0001.jpg" data-lightbox="gallery">
+      <img src="../assets/IMG-20241031-WA0001.jpg" class="img-fluid rounded">
     </a>
 
-    <a href="../assets/img/1.jpg" data-lightbox="gallery">
-      <img src="../assets/img/1.jpg" class="img-fluid rounded">
+    <a href="../assets/IMG_20230530_165541_979.jpg" data-lightbox="gallery">
+      <img src="../assets/IMG_20230530_165541_979.jpg" class="img-fluid rounded">
     </a>
 
-        <a href="../assets/img/1.jpg" data-lightbox="gallery">
-      <img src="../assets/img/1.jpg" class="img-fluid rounded">
+        <a href="../assets/IMG_20240613_165804_221.jpg" data-lightbox="gallery">
+      <img src="../assets/IMG_20240613_165804_221.jpg" class="img-fluid rounded">
     </a>
     
   </div>
