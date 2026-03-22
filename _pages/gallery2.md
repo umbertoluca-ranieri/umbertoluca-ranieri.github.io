@@ -21,7 +21,7 @@ nav_order: 5
 
   <style>
     .masonry {
-      column-count: 4;
+      column-count: 3;              /* FIXED */
       column-gap: 1rem;
     }
 
@@ -36,12 +36,10 @@ nav_order: 5
       border-radius: 8px;
     }
 
-    @media (max-width: 992px) {
-      .masonry { column-count: 3; }
-    }
     @media (max-width: 768px) {
       .masonry { column-count: 2; }
     }
+
     @media (max-width: 576px) {
       .masonry { column-count: 1; }
     }
@@ -50,23 +48,23 @@ nav_order: 5
 
 <body>
 
-<div class="container mt-4">
+<div class="container-fluid px-3 mt-4">  <!-- FIXED -->
   <div class="masonry">
 
-    <a img src="../assets/img/3.jpg" data-lightbox="gallery">
-      <img src="../assets/img/3.jpg" class="img-fluid rounded" alt="Image 1">
+    <a href="../assets/img/3.jpg" data-lightbox="gallery">
+      <img src="../assets/img/3.jpg" class="img-fluid rounded">
     </a>
 
-    <a img src="../assets/img/5.jpg" data-lightbox="gallery">
-      <img src="../assets/img/5.jpg" class="img-fluid rounded" alt="Image 1">
+    <a href="../assets/img/5.jpg" data-lightbox="gallery">
+      <img src="../assets/img/5.jpg" class="img-fluid rounded">
     </a>
 
-    <a img src="../assets/img/2.jpg" data-lightbox="gallery">
-      <img src="../assets/img/2.jpg" class="img-fluid rounded" alt="Image 1">
+    <a href="../assets/img/2.jpg" data-lightbox="gallery">
+      <img src="../assets/img/2.jpg" class="img-fluid rounded">
     </a>
 
-    <a img src="../assets/img/1.jpg" data-lightbox="gallery">
-      <img src="../assets/img/1.jpg" class="img-fluid rounded" alt="Image 1">
+    <a href="../assets/img/1.jpg" data-lightbox="gallery">
+      <img src="../assets/img/1.jpg" class="img-fluid rounded">
     </a>
 
   </div>
@@ -77,6 +75,5 @@ nav_order: 5
 
 </body>
 </html>
-
 
 
