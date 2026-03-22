@@ -51,36 +51,36 @@ nav_order: 4
 <div class="container-fluid px-3 mt-4">  <!-- FIXED -->
   <div class="masonry">
 
-    <a href="../assets/IMG-20210215-WA0000.jpeg" data-lightbox="gallery">
-      <img src="../assets/IMG-20210215-WA0000.jpeg" class="img-fluid rounded">
+    <a href="../assets/img/IMG-20210215-WA0000.jpeg" data-lightbox="gallery">
+      <img src="../assets/img/IMG-20210215-WA0000.jpeg" class="img-fluid rounded">
     </a>
 
-    <a href="../assets/IMG-20220925-WA0000.jpg" data-lightbox="gallery">
-      <img src="../assets/IMG-20220925-WA0000.jpg" class="img-fluid rounded">
+    <a href="../assets/img/IMG-20220925-WA0000.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG-20220925-WA0000.jpg" class="img-fluid rounded">
     </a>
 
-    <a href="../assets/IMG-20240125-WA0000.jpg" data-lightbox="gallery">
-      <img src="../assets/IMG-20240125-WA0000.jpg" class="img-fluid rounded">
+    <a href="../assets/img/IMG-20240125-WA0000.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG-20240125-WA0000.jpg" class="img-fluid rounded">
     </a>
 
-    <a href="../assets/IMG-20241031-WA0001.jpg" data-lightbox="gallery">
-      <img src="../assets/IMG-20241031-WA0001.jpg" class="img-fluid rounded">
+    <a href="../assets/img/IMG-20241031-WA0001.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG-20241031-WA0001.jpg" class="img-fluid rounded">
     </a>
 
-    <a href="../assets/IMG_20230530_165541_979.jpg" data-lightbox="gallery">
-      <img src="../assets/IMG_20230530_165541_979.jpg" class="img-fluid rounded">
+    <a href="../assets/img/IMG_20230530_165541_979.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20230530_165541_979.jpg" class="img-fluid rounded">
     </a>
 
-        <a href="../assets/IMG_20240613_165804_221.jpg" data-lightbox="gallery">
-      <img src="../assets/IMG_20240613_165804_221.jpg" class="img-fluid rounded">
+        <a href="../assets/img/IMG_20240613_165804_221.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20240613_165804_221.jpg" class="img-fluid rounded">
     </a>
 
-        <a href="../assets/UR012_P03 LH3 cylinder after.jpg" data-lightbox="gallery">
-      <img src="../assets/UR012_P03 LH3 cylinder after.jpg" class="img-fluid rounded">
+        <a href="../assets/img/UR012_P03 LH3 cylinder after.jpg" data-lightbox="gallery">
+      <img src="../assets/img/UR012_P03 LH3 cylinder after.jpg" class="img-fluid rounded">
     </a>
 
-        <a href="../assets/cell3.png" data-lightbox="gallery">
-      <img src="../assets/cell3.png" class="img-fluid rounded">
+        <a href="../assets/img/cell3.png" data-lightbox="gallery">
+      <img src="../assets/img/cell3.png" class="img-fluid rounded">
     </a>
     
   </div>
