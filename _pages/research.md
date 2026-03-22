@@ -17,6 +17,4 @@ I am interested in the following topics:
 - Reactivity and polymorphism in simple model systems
 - Pressure–temperature phase diagram of small molecules
 - Synthesis and structural characterization of new compounds
-- Materials for energy applications
-
-# - In-situ and kinetics studies
+- Materials for energy applications # - In-situ and kinetics studies
