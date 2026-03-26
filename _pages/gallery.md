@@ -86,7 +86,54 @@ nav_order: 4
     <a href="../assets/img/AL013.jpg" data-lightbox="gallery">
       <img src="../assets/img/AL013.jpg" class="img-fluid rounded">
     </a>
-    
+
+    <a href="../assets/img/Ca(OH)2_vesta.png" data-lightbox="gallery">
+      <img src="../assets/img/Ca(OH)2_vesta.png" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/Estilbene_SC_M1_onFlashChip_BEFORE_LASER.jpg" data-lightbox="gallery">
+      <img src="../assets/img/Estilbene_SC_M1_onFlashChip_BEFORE_LASER.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/IMG_2013.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_2013.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/IMG_20210211_225840.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20210211_225840.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/IMG_20210215_180913.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20210215_180913.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/IMG_20210725_152045.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20210725_152045.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/IMG_20230919_172643_381.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20230919_172643_381.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/La03Ca07Fe06Cr04O3_50x_pos2.jpg" data-lightbox="gallery">
+      <img src="../assets/img/La03Ca07Fe06Cr04O3_50x_pos2.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/MAI_Tscan_002_01_120_00_gila_powder_monitor.jpg" data-lightbox="gallery">
+      <img src="../assets/img/MAI_Tscan_002_01_120_00_gila_powder_monitor.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/Melamine_after_DSC_PAN_5x.jpg" data-lightbox="gallery">
+      <img src="../assets/img/Melamine_after_DSC_PAN_5x.jpg" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/g2.png" data-lightbox="gallery">
+      <img src="../assets/img/g2.png" class="img-fluid rounded">
+    </a>
+
+        <a href="../assets/img/ruby_system_downstream.jpg" data-lightbox="gallery">
+      <img src="../assets/img/ruby_system_downstream.jpg" class="img-fluid rounded">
+    </a>
   </div>
 </div>
 
