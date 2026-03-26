@@ -103,10 +103,6 @@ nav_order: 4
       <img src="../assets/img/IMG_20210211_225840.jpg" class="img-fluid rounded">
     </a>
 
-        <a href="../assets/img/IMG_20210215_180913.jpg" data-lightbox="gallery">
-      <img src="../assets/img/IMG_20210215_180913.jpg" class="img-fluid rounded">
-    </a>
-
         <a href="../assets/img/IMG_20210725_152045.jpg" data-lightbox="gallery">
       <img src="../assets/img/IMG_20210725_152045.jpg" class="img-fluid rounded">
     </a>
@@ -139,9 +135,6 @@ nav_order: 4
       <img src="../assets/img/ruby_system_downstream.jpg" class="img-fluid rounded">
     </a>
 
-   <a href="../assets/img/IMG-20240621-WA0002 - Copy.jpg" data-lightbox="gallery">
-      <img src="../assets/img/IMG-20240621-WA0002 - Copy.jpg" class="img-fluid rounded">
-    </a>
     
   </div>
 </div>
