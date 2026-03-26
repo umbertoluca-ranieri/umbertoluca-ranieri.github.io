@@ -13,7 +13,7 @@ I am interested in the following topics:
 - Water and clathrates, hydrogen bonding  
 - Dynamical disorder in crystalline solids
 - Molecular diffusion in compressed fluids  
-  (Ranieri et al. Nature Comm. 2021; Ranieri et al. Nature Comm. 2024)
+  (Ranieri *et al.* Nature Comm. 2021; Ranieri *et al.* Nature Comm. 2024)
 - Reactivity and polymorphism in simple model systems
 - Pressure–temperature phase diagram of small molecules
 - Synthesis and structural characterization of new compounds
