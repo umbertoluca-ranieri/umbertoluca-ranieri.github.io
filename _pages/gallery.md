@@ -127,6 +127,10 @@ nav_order: 4
       <img src="../assets/img/Melamine_after_DSC_PAN_5x.jpg" class="img-fluid rounded">
     </a>
 
+       <a href="../assets/img/a.png" data-lightbox="gallery">
+      <img src="../assets/img/a.png" class="img-fluid rounded">
+    </a>
+    
         <a href="../assets/img/g2.png" data-lightbox="gallery">
       <img src="../assets/img/g2.png" class="img-fluid rounded">
     </a>
@@ -137,10 +141,6 @@ nav_order: 4
 
    <a href="../assets/img/IMG-20240621-WA0002 - Copy.jpg" data-lightbox="gallery">
       <img src="../assets/img/IMG-20240621-WA0002 - Copy.jpg" class="img-fluid rounded">
-    </a>
-
-       <a href="../assets/img/a.png" data-lightbox="gallery">
-      <img src="../assets/img/a.png" class="img-fluid rounded">
     </a>
     
   </div>
