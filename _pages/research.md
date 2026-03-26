@@ -11,7 +11,7 @@ My research focuses on the microscopic structural and dynamical properties of ma
 
 I am interested in the following topics:
 - Water and clathrates, hydrogen bonding  
-- Dynamical disorder in crystalline solids
+- Dynamical disorder in crystalline solids  
   [Ranieri *et al.* Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2)
 - Molecular diffusion in compressed fluids  
   ([Ranieri *et al.* Nature Comm. 2021](https://www.nature.com/articles/s41467-021-22182-4); [Ranieri *et al.* Nature Comm. 2024](https://www.nature.com/articles/s41467-024-47961-7))
