@@ -11,7 +11,7 @@ My research focuses on the microscopic structural and dynamical properties of ma
 
 I am interested in the following topics:
 - Water and clathrates, hydrogen bonding  
-  (Schaack *et al.* [PNAS 2019](https://www.pnas.org/doi/10.1073/pnas.1904911116#:~:text=Our%20results%20reveal%20that%20a,Tanaka%20et%20al.%2C%20J.)Ranieri *et al.* [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312665120))
+  (Schaack *et al.* [PNAS 2019](https://www.pnas.org/doi/10.1073/pnas.1904911116#:~:text=Our%20results%20reveal%20that%20a,Tanaka%20et%20al.%2C%20J.); Ranieri *et al.* [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312665120))
   
 - Dynamical disorder in crystalline solids  
   (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
