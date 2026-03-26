@@ -22,4 +22,4 @@ I am interested in the following topics:
 - Synthesis and structural characterization of new compounds  
   (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702))
 - Quantum transitions of confined H<sub>2</sub>, nuclear quantum effects  
-  (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606))
+  (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606) Ranieri *et al.* [J. Chem. Phys.](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of))
