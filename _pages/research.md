@@ -20,5 +20,6 @@ I am interested in the following topics:
   (Ranieri *et al.* [JACS 2025](https://doi.org/10.1021/jacs.5c09198))
 - Pressure–temperature phase diagram of small molecules
 - Synthesis and structural characterization of new compounds  
-  (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702)
-- Quantum transitions of confined H<sub>2</sub>, nuclear quantum effects
+  (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702))
+- Quantum transitions of confined H<sub>2</sub>, nuclear quantum effects  
+  (Ranieri *et al.* [J. Phys. Chem. C 2019(https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606))
