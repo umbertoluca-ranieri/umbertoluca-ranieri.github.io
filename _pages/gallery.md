@@ -134,6 +134,11 @@ nav_order: 4
         <a href="../assets/img/ruby_system_downstream.jpg" data-lightbox="gallery">
       <img src="../assets/img/ruby_system_downstream.jpg" class="img-fluid rounded">
     </a>
+
+   <a href="../assets/img/IMG-20240621-WA0002 - Copy" data-lightbox="gallery">
+      <img src="../assets/img/IMG-20240621-WA0002 - Copy" class="img-fluid rounded">
+    </a>
+    
   </div>
 </div>
 
