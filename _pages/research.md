@@ -21,6 +21,6 @@ I am interested in the following topics:
 - Pressure–temperature phase diagram of small molecules  
    (Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w))
 - Synthesis and structural characterization of new compounds  
-  (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702))
+  (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
 - Quantum transitions of confined H<sub>2</sub>, nuclear quantum effects  
   (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of))
