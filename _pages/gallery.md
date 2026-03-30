@@ -135,8 +135,8 @@ nav_order: 4
       <img src="../assets/img/ruby_system_downstream.jpg" class="img-fluid rounded">
     </a>
 
-        <a href="../assets/img/image.tif" data-lightbox="gallery">
-      <img src="../assets/img/image.tif" class="img-fluid rounded">
+        <a href="../assets/img/image.png" data-lightbox="gallery">
+      <img src="../assets/img/image.png" class="img-fluid rounded">
     </a>
 
             <a href="../assets/img/overplotting_P17.png" data-lightbox="gallery">
