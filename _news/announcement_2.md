@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-See more info here: https://cfm.ehu.es/cfm_news/introduction-to-neutron-activation-analysis-naa-workshop/
+See more info [here](https://cfm.ehu.es/cfm_news/introduction-to-neutron-activation-analysis-naa-workshop/)
