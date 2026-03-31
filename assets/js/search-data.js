@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-on-february-4-we-will-be-hosting-a-seminar-by-prof-elena-solana-madruga-from-universidad-complutense-de-madrid",
-          title: 'On February 4, we will be hosting a seminar by Prof. Elena Solana...',
+            },},{id: "news-on-february-4-we-will-be-hosting-a-seminar-by-elena-solana-madruga",
+          title: 'On February 4, we will be hosting a seminar by Elena Solana Madruga...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
