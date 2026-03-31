@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: On April 20-21, we are hosting a workshop by Carlo Cazzaniga from RAL-ISIS
+date: 2026-04-20
 inline: false
 related_posts: false
 ---
