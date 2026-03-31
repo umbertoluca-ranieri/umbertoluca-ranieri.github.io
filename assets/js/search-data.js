@@ -417,8 +417,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-announcement-1",
-          title: 'Announcement_1',
+            },},{id: "news-on-february-4-we-will-be-hosting-a-seminar-by-prof-elena-solana-madruga-from-universidad-complutense-de-madrid",
+          title: 'On February 4, we will be hosting a seminar by Prof. Elena Solana...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
