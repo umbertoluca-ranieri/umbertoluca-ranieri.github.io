@@ -412,11 +412,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-announcement-3",
           title: 'Announcement_3',
           description: "",
@@ -427,6 +422,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-on-april-20-21-we-are-hosting-a-workshop-by-carlo-cazzaniga-from-ral-isis",
+          title: 'On April 20-21, we are hosting a workshop by Carlo Cazzaniga from RAL-ISIS...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
