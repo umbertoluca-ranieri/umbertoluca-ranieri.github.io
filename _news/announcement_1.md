@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-02-04
 inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+On February 4, we will be hosting a seminar by Prof. Elena Solana Madruga from Universidad Complutense de Madrid.
