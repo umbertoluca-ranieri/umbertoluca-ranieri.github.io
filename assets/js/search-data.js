@@ -417,6 +417,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-on-april-15-we-will-be-hosting-a-seminar-by-elisa-borfecchia",
+          title: 'On April 15, we will be hosting a seminar by Elisa Borfecchia',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "news-on-april-20-21-we-will-be-hosting-a-workshop-by-carlo-cazzaniga-from-ral-isis-on-neutron-activation-analysis",
           title: 'On April 20-21, we will be hosting a workshop by Carlo Cazzaniga from...',
           description: "",
