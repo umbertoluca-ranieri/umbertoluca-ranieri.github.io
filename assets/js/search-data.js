@@ -422,6 +422,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
+            },},{id: "news-on-may-18-19-i-will-be-participating-in-pint-of-science",
+          title: 'On May 18-19, I will be participating in Pint of Science',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
