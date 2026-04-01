@@ -415,7 +415,7 @@ ninja.data = [{
             },},{id: "news-prof-elena-solana-madruga-from-universidad-complutense-de-madrid-will-visit-our-lab-and-will-be-giving-a-seminar-as-part-of-the-ongoing-neutron-scattering-series",
           title: 'Prof. Elena Solana Madruga from Universidad Complutense de Madrid will visit our lab...',
           description: "",
-          section: "News",},{id: "news-we-will-be-hosting-a-seminar-by-prof-elisa-borfecchia-from-the-university-of-turin",
+          section: "News",},{id: "news-we-will-be-hosting-a-seminar-by-prof-elisa-borfecchia-from-the-university-of-turin-italy",
           title: 'We will be hosting a seminar by Prof. Elisa Borfecchia from the University...',
           description: "",
           section: "News",},{id: "news-on-april-20-21-we-will-be-hosting-a-workshop-by-dr-carlo-cazzaniga-from-the-isis-neutron-and-muon-source-on-neutron-activation-analysis-see-more-info-here",
