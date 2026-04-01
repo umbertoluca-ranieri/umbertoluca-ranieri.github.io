@@ -418,7 +418,7 @@ ninja.data = [{
           section: "News",},{id: "news-we-will-be-hosting-a-seminar-by-prof-elisa-borfecchia-from-the-university-of-turin-italy",
           title: 'We will be hosting a seminar by Prof. Elisa Borfecchia from the University...',
           description: "",
-          section: "News",},{id: "news-on-april-20-21-we-will-be-hosting-a-workshop-by-dr-carlo-cazzaniga-from-the-isis-neutron-and-muon-source-on-neutron-activation-analysis-see-more-info-here",
+          section: "News",},{id: "news-on-april-20-21-we-will-be-hosting-a-workshop-by-dr-carlo-cazzaniga-from-the-isis-neutron-and-muon-source-uk-on-neutron-activation-analysis-see-more-info-here",
           title: 'On April 20-21, we will be hosting a workshop by Dr. Carlo Cazzaniga...',
           description: "",
           section: "News",},{id: "news-on-may-18-19-i-will-be-participating-in-pint-of-science",
