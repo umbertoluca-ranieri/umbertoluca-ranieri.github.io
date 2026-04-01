@@ -1,8 +1,7 @@
 ---
 layout: post
 date: 2026-02-04
-title: On February 4, we will be hosting a seminar by Elena Solana Madruga
-inline: false
+inline: true
 related_posts: false
 ---
 
