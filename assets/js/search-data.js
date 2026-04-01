@@ -427,8 +427,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-on-may-18-19-i-will-be-participating-in-pint-of-science",
+          title: 'On May 18-19, I will be participating in Pint of Science',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
