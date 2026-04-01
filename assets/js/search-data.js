@@ -417,11 +417,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-on-february-4-we-will-be-hosting-a-seminar-by-elena-solana-madruga",
-          title: 'On February 4, we will be hosting a seminar by Elena Solana Madruga...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
             },},{id: "news-on-april-20-21-we-will-be-hosting-a-workshop-by-carlo-cazzaniga-from-ral-isis-on-neutron-activation-analysis",
           title: 'On April 20-21, we will be hosting a workshop by Carlo Cazzaniga from...',
           description: "",
