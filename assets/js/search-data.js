@@ -415,12 +415,10 @@ ninja.data = [{
             },},{id: "news-prof-elena-solana-madruga-from-universidad-complutense-de-madrid-will-visit-our-lab-and-will-be-giving-a-seminar-as-part-of-the-ongoing-neutron-scattering-series",
           title: 'Prof. Elena Solana Madruga from Universidad Complutense de Madrid will visit our lab...',
           description: "",
-          section: "News",},{id: "news-on-april-15-we-will-be-hosting-a-seminar-by-elisa-borfecchia",
-          title: 'On April 15, we will be hosting a seminar by Elisa Borfecchia',
+          section: "News",},{id: "news-we-will-be-hosting-a-seminar-by-prof-elisa-borfecchia-from-the-university-of-turin",
+          title: 'We will be hosting a seminar by Prof. Elisa Borfecchia from the University...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "news-on-april-20-21-we-will-be-hosting-a-workshop-by-carlo-cazzaniga-from-ral-isis-on-neutron-activation-analysis-see-more-info-here",
+          section: "News",},{id: "news-on-april-20-21-we-will-be-hosting-a-workshop-by-carlo-cazzaniga-from-ral-isis-on-neutron-activation-analysis-see-more-info-here",
           title: 'On April 20-21, we will be hosting a workshop by Carlo Cazzaniga from...',
           description: "",
           section: "News",},{id: "news-on-may-18-19-i-will-be-participating-in-pint-of-science",
