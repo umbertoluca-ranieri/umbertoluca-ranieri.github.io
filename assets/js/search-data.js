@@ -412,12 +412,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-on-february-4-we-will-be-hosting-a-seminar-by-elena-solana-madruga",
-          title: 'On February 4, we will be hosting a seminar by Elena Solana Madruga...',
+            },},{id: "news-prof-elena-solana-madruga-from-universidad-complutense-de-madrid-will-visit-our-lab-and-will-be-giving-a-seminar-as-part-of-the-ongoing-neutron-scattering-series",
+          title: 'Prof. Elena Solana Madruga from Universidad Complutense de Madrid will visit our lab...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "news-on-april-15-we-will-be-hosting-a-seminar-by-elisa-borfecchia",
+          section: "News",},{id: "news-on-april-15-we-will-be-hosting-a-seminar-by-elisa-borfecchia",
           title: 'On April 15, we will be hosting a seminar by Elisa Borfecchia',
           description: "",
           section: "News",handler: () => {
