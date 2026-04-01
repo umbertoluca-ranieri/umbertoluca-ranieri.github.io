@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We will be hosting a seminar by Elisa Borfecchia from the University of Turin
+We will be hosting a seminar by Prof. Elisa Borfecchia from the University of Turin
