@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Prof. Elena Solana Madruga from Universidad Complutense de Madrid (Spain) will visit our lab and will be giving a seminar as part of the ongoing Neutron Scattering Series
+Prof. Elena Solana Madruga from Universidad Complutense de Madrid (Spain) will visit our group and will be giving a seminar as part of the ongoing Neutron Scattering Series
