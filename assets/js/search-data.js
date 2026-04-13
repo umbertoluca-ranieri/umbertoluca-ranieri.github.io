@@ -412,7 +412,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-prof-elena-solana-madruga-from-universidad-complutense-de-madrid-spain-will-visit-our-lab-and-will-be-giving-a-seminar-as-part-of-the-ongoing-neutron-scattering-series",
+            },},{id: "news-prof-elena-solana-madruga-from-universidad-complutense-de-madrid-spain-will-visit-our-group-and-will-be-giving-a-seminar-as-part-of-the-ongoing-neutron-scattering-series",
           title: 'Prof. Elena Solana Madruga from Universidad Complutense de Madrid (Spain) will visit our...',
           description: "",
           section: "News",},{id: "news-we-will-be-hosting-a-seminar-by-prof-elisa-borfecchia-from-the-university-of-turin-italy",
