@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-27'
 papers:
   uIu5NpIAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -22,7 +22,7 @@ papers:
     title: High-pressure synthesis of an arsenopyrite-type polymorph of  recoverable to ambient conditions
     year: '2026'
   uIu5NpIAAAAJ:4TOpqqG69KYC:
-    citations: 8
+    citations: 10
     title: "High\u2010Pressure Synthesis of oP28\u2010C3N4 Recoverable to Ambient Conditions"
     year: '2025'
   uIu5NpIAAAAJ:8k81kl-MbHgC:
@@ -58,11 +58,11 @@ papers:
     title: "High-pressure formation and characterization of a boron carbide polymorph featuring bent C\u2013B\u2013C chains"
     year: '2026'
   uIu5NpIAAAAJ:Se3iqnhoufwC:
-    citations: 24
+    citations: 25
     title: "Structure determination of \u03B6-N2 from single-crystal X-ray diffraction and theoretical suggestion for the formation of amorphous nitrogen"
     year: '2023'
   uIu5NpIAAAAJ:ULOm3_A8WrAC:
-    citations: 28
+    citations: 29
     title: Observation of plastic ice VII by quasi-elastic neutron scattering
     year: '2025'
   uIu5NpIAAAAJ:UeHWp8X0CEIC:
@@ -90,7 +90,7 @@ papers:
     title: Fast methane diffusion at the interface of two clathrate structures
     year: '2017'
   uIu5NpIAAAAJ:e5wmG9Sq2KIC:
-    citations: 0
+    citations: 1
     title: High-Pressure Synthesis of the First Thermodynamically Stable Silver Nitride, AgN5
     year: '2026'
   uIu5NpIAAAAJ:eQOLeE2rZwMC:
@@ -98,11 +98,11 @@ papers:
     title: Diffusion in dense supercritical methane from quasi-elastic neutron scattering measurements
     year: '2021'
   uIu5NpIAAAAJ:hqOjcs7Dif8C:
-    citations: 26
+    citations: 27
     title: Crossover from gas-like to liquid-like molecular diffusion in a simple supercritical fluid
     year: '2024'
   uIu5NpIAAAAJ:kNdYIx-mwKoC:
-    citations: 7
+    citations: 8
     title: Synthesis of LaCN3, TbCN3, CeCN5, and TbCN5 Polycarbonitrides at Megabar Pressures
     year: '2024'
   uIu5NpIAAAAJ:mB3voiENLucC:
@@ -110,7 +110,7 @@ papers:
     title: "High-Pressure Synthesis of Two Pb3(C3N6) Polymorphs Featuring Fully Deprotonated [C3N6]6\u2013 Melaminate Anions"
     year: '2025'
   uIu5NpIAAAAJ:qUcmZB5y_30C:
-    citations: 2
+    citations: 3
     title: Implications of high-pressure oxygen hydrates on radiolytic oxygen in Jovian icy moons
     year: '2025'
   uIu5NpIAAAAJ:qxL8FJ1GzNcC:
