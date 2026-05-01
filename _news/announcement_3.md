@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-On May 20, I will be participating in Pint of Science
+I will be participating in Pint of Science!
