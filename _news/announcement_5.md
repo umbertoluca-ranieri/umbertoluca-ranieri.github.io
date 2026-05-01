@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-On June 15-16, I will co-organize a workshop on Neutron Diffraction. Main speaker is Dr. Matthias Gutmann from the ISIS Neutron and Muon Source (UK)
+On June 15-16, I will co-organize a workshop on Neutron Diffraction by Dr. Matthias Gutmann from the ISIS Neutron and Muon Source (UK)
