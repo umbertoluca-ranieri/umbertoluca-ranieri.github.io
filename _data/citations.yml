@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-06'
 papers:
   uIu5NpIAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -14,7 +14,7 @@ papers:
     title: Orientational Ordering, Locking-in, and Distortion of CH4 Molecules in Methane Hydrate III under High Pressure
     year: '2018'
   uIu5NpIAAAAJ:3fE2CSJIrl8C:
-    citations: 4
+    citations: 6
     title: Giant splitting of the hydrogen rotational eigenenergies in the C filled ice
     year: '2024'
   uIu5NpIAAAAJ:4JMBOYKVnBMC:
@@ -38,11 +38,11 @@ papers:
     title: Advances in neutron scattering under non-ambient conditions
     year: '2016'
   uIu5NpIAAAAJ:IjCSPb-OGe4C:
-    citations: 20
+    citations: 21
     title: Salt-and gas-filled ices under planetary conditions
     year: '2019'
   uIu5NpIAAAAJ:LkGwnXOMwfcC:
-    citations: 19
+    citations: 20
     title: Temperature-and pressure-dependence of the hydrogen bond network in plastic ice VII
     year: '2022'
   uIu5NpIAAAAJ:MXK_kJrjxJIC:
@@ -58,11 +58,11 @@ papers:
     title: "High-pressure formation and characterization of a boron carbide polymorph featuring bent C\u2013B\u2013C chains"
     year: '2026'
   uIu5NpIAAAAJ:Se3iqnhoufwC:
-    citations: 25
+    citations: 26
     title: "Structure determination of \u03B6-N2 from single-crystal X-ray diffraction and theoretical suggestion for the formation of amorphous nitrogen"
     year: '2023'
   uIu5NpIAAAAJ:ULOm3_A8WrAC:
-    citations: 29
+    citations: 30
     title: Observation of plastic ice VII by quasi-elastic neutron scattering
     year: '2025'
   uIu5NpIAAAAJ:UeHWp8X0CEIC:
@@ -70,7 +70,7 @@ papers:
     title: 'Dynamical crossover in hot dense water: the hydrogen bond role'
     year: '2016'
   uIu5NpIAAAAJ:UebtZRa9Y70C:
-    citations: 16
+    citations: 17
     title: Observation of the most H2-dense filled ice under high pressure
     year: '2023'
   uIu5NpIAAAAJ:Zph67rFs4hoC:
@@ -106,7 +106,7 @@ papers:
     title: Synthesis of LaCN3, TbCN3, CeCN5, and TbCN5 Polycarbonitrides at Megabar Pressures
     year: '2024'
   uIu5NpIAAAAJ:mB3voiENLucC:
-    citations: 2
+    citations: 3
     title: "High-Pressure Synthesis of Two Pb3(C3N6) Polymorphs Featuring Fully Deprotonated [C3N6]6\u2013 Melaminate Anions"
     year: '2025'
   uIu5NpIAAAAJ:qUcmZB5y_30C:
@@ -126,6 +126,6 @@ papers:
     title: Quantum Dynamics of H2 and D2 Confined in Hydrate Structures as a Function of Pressure and Temperature
     year: '2018'
   uIu5NpIAAAAJ:zYLM7Y9cAGgC:
-    citations: 34
+    citations: 35
     title: Observation of methane filled hexagonal ice stable up to 150 GPa
     year: '2019'
