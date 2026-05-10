@@ -15,6 +15,8 @@ nav_order: 5
 
 [Pressure calibrants](http://kantor.50webs.com/index.html)  
 
+[Inorganic Crystal Structure Database](https://icsd.fiz-karlsruhe.de/index.xhtml;jsessionid=2DE741B2CECD694109B6FF4A2FAF6339)   
+
 [Space Group Tables](http://img.chem.ucl.ac.uk/sgp/large/sgp.htm)  
 
 [FINDSYM](https://iso.byu.edu/findsym.php)  
@@ -24,6 +26,8 @@ nav_order: 5
 [Interactive Periodic Table](https://ptable.com/#Properties)   
 
 [Ionic Radii](https://mrlweb.mrl.ucsb.edu/~seshadri/Periodic/index.html)   
+
+[Materials Project Database](https://next-gen.materialsproject.org/)   
 
 [NIST Chemistry WebBook](https://webbook.nist.gov/chemistry/)  
 
