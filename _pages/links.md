@@ -35,4 +35,4 @@ nav_order: 5
 
 [Physics Magazine](https://physics.aps.org/)  
 
-#[Astronomy picture of the day](https://apod.nasa.gov/apod/astropix.html)  
+# [Astronomy picture of the day](https://apod.nasa.gov/apod/astropix.html)  
