@@ -27,6 +27,8 @@ nav_order: 5
 
 [Ionic Radii](https://mrlweb.mrl.ucsb.edu/~seshadri/Periodic/index.html)   
 
+[Light Unit Conversions](https://halas.rice.edu/unit-conversions)  
+
 [Materials Project Database](https://next-gen.materialsproject.org/)   
 
 [NIST Chemistry WebBook](https://webbook.nist.gov/chemistry/)  
