@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be participating in Pint of Science! #pintofscience #divulgadonosti #scienceinbars
+I will be participating in [Pint of Science](https://pintofscience.es/events/donostia/)! #pintofscience #divulgadonosti #scienceinbars
