@@ -424,7 +424,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-participating-in-pint-of-science",
           title: 'I will be participating in Pint of Science!',
           description: "",
-          section: "News",},{id: "news-on-june-15-16-i-will-co-organize-a-workshop-on-neutron-diffraction-by-dr-matthias-gutmann-from-the-isis-neutron-and-muon-source-uk",
+          section: "News",},{id: "news-on-june-15-16-i-will-co-organize-a-workshop-on-neutron-diffraction-by-dr-matthias-gutmann-from-the-isis-neutron-and-muon-source-uk-see-more-info-here",
           title: 'On June 15-16, I will co-organize a workshop on Neutron Diffraction by Dr....',
           description: "",
           section: "News",},{id: "news-we-will-be-hosting-a-seminar-by-prof-sven-friedemann-university-of-bristol-uk-as-part-of-the-ongoing-cfm-colloquium-series",
