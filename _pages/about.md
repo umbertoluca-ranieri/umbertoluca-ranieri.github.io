@@ -29,7 +29,7 @@ latest_posts:
 
 I am a scientist working in the field of neutron science.
 
-Currently, I am a Research Fellow ("Gipuzkoa Fellow") in the [Quantum Beams & Computation for Sustainable Materials group](https://qbcsm.github.io/) at CFM-MPC - Materials Physics Center in Donostia-San Sebastián. My position is funded by the *Diputación Foral de Gipuzkoa*.  
+Currently, I am a Research Fellow ("Gipuzkoa Fellow") in the [Quantum Beams & Computation for Sustainable Materials group](https://qbcsm.github.io/) at CFM/MPC - Materials Physics Center in Donostia-San Sebastián. My position is funded by the *Diputación Foral de Gipuzkoa*.  
 
   
 
