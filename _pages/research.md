@@ -9,7 +9,7 @@ nav_order: 2
 
 My research focuses on the (microscopic) exotic properties of matter under extreme conditions. I am frequently using large-scale facilities for my experiments, including neutron sources and synchrotrons.  
 
-With my collaborators, we are interested in the following topics:
+With my collaborators, we are interested in topics such as:
 - Water and clathrates, hydrogen bonding  
   (Schaack *et al.* [PNAS 2019](https://www.pnas.org/doi/10.1073/pnas.1904911116#:~:text=Our%20results%20reveal%20that%20a,Tanaka%20et%20al.%2C%20J.); Ranieri *et al.* [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312665120))
   
