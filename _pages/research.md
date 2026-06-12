@@ -7,7 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-My research focuses on the (microscopic) exotic properties of matter under extreme conditions. I am frequently using large-scale facilities for my experiments, including neutron sources and synchrotrons.  
+My research focuses on the (microscopic) exotic properties of matter under extreme conditions.  
+
+I am frequently using large-scale facilities for my experiments, including neutron sources and synchrotrons.  
 
 With my collaborators, we are interested in topics such as:  
 - **Water and clathrates, hydrogen bonding**  
