@@ -33,7 +33,7 @@ Currently, I am a Research Fellow ("Gipuzkoa Fellow") in the [Quantum Beams & Co
 
 My project is focused on dynamically disordered materials for energy-related applications, kinetics of phase transformations, and confinement in guest-host systems.  
 
-I have a PhD in physics from EPFL (Switzerland) and previous research experience at HPSTAR Shanghai (China), Sapienza Università di Roma (Italy), and University of Edinburgh (UK).  
+I have a PhD in physics from EPFL (Switzerland) and previous research experience at HPSTAR Shanghai (China), Sapienza Università di Roma (Italy) and University of Edinburgh (UK).  
 
   
 
