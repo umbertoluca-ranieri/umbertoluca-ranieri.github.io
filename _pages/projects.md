@@ -11,6 +11,6 @@ description: # This is a description of the page. You can modify it in '_pages/c
 My position is funded by the *Diputación Foral de Gipuzkoa*.  
 {% include figure.liquid path=<img src="../assets/img/og_image.png" %}
 
-My project is focused on dynamically disordered materials for energy-related applications, kinetics of phase transformations, and confinement in guest-host systems.  
+This project is focused on dynamically disordered materials for energy-related applications, kinetics of phase transformations, and confinement in guest-host systems.  
 
-I am also grateful for the support of large-scale facilities.
+I am also grateful for the support of large-scale facilities: Institut Laue-Langevin in Grenoble, France, and ISIS-RAL in Didcot, UK.
