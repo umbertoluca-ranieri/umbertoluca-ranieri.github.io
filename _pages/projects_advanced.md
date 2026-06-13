@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Projects_Adv
+permalink: /projectsadv/
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 3
