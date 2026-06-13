@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-I investigate (microscopic) exotic properties of matter under extreme conditions.  
+I investigate the (microscopic) exotic properties of matter under extreme conditions.  
 
 I am frequently using large-scale facilities for my experiments, including neutron sources and synchrotrons.  
 
