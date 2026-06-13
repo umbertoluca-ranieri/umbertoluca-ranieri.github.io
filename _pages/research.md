@@ -9,8 +9,6 @@ nav_order: 2
 
 I investigate the (microscopic) exotic properties of matter under extreme conditions.  
 
-I am frequently using large-scale facilities for my experiments, including neutron sources and synchrotrons.  
-
 With my collaborators, we are interested in topics such as:  
 - **Dynamical disorder in crystalline solids**  
   (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
@@ -32,3 +30,5 @@ With my collaborators, we are interested in topics such as:
 
 - **Quantum transitions of confined H<sub>2</sub>, nuclear quantum effects**  
   (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of))
+
+I am frequently using large-scale facilities for my experiments, including neutron sources and synchrotrons. I am also very interested in developing new methodologies for pushing the boundaries of experimental techniques.  
