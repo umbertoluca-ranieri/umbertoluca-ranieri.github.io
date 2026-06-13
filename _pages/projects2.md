@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/
+permalink: /projects2/
 title: Projects
 nav: true
 nav_order: 3
