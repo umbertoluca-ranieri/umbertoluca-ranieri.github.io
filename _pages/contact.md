@@ -13,7 +13,7 @@ If you would like to talk, request further information or start collaborating, d
 <ins>Address:</ins>  
 Centro de Física de Materiales  
 Paseo Manuel de Lardizabal, 5  
-Donostia-San Sebastián (Guipuzcoa)  
+Donostia-San Sebastián (Guipuzcoa)   
 20018 Spain  
 
 <ins>Office Phone:</ins>  
