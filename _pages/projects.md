@@ -14,4 +14,5 @@ The research project focuses on dynamically disordered materials for energy-rela
 
 I am also grateful for the support of large-scale facilities: the Institut Laue-Langevin and European Synchrotron Radiation Facility in Grenoble, France, and the ISIS Neutron and Muon Source at RAL in Didcot, UK.
 
+![]({{ "/assets/img/og-image.png" | relative_url }}){:style="margin:auto; display:block;"}
 
