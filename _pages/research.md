@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-I investigate the (microscopic) exotic properties of matter under extreme conditions.  
+I investigate the (microscopic) exotic properties of matter under extreme conditions, mostly high pressure.  
 
 With my collaborators, we are interested in topics such as:  
 - **Dynamical disorder in crystalline solids**  
