@@ -8,7 +8,7 @@ description: # This is a description of the page. You can modify it in '_pages/c
 ---
 
 
-My position is funded by the *Diputación Foral de Gipuzkoa*..  
+My position is funded by the *Diputación Foral de Gipuzkoa*.  
 
 The research project focuses on dynamically disordered materials for energy-related applications, kinetics of phase transformations, and confinement in guest-host systems.  
 
