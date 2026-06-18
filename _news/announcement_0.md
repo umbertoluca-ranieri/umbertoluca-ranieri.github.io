@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-02-04
+date: 2026-01-01
 inline: true
 related_posts: false
 ---
 
-Prof. Elena Solana Madruga (Universidad Complutense de Madrid, Spain) will visit our group and will be giving a seminar as part of the ongoing CFM Neutron Scattering Series
+On January 1, I will start my Gipuzkoa Fellowship. My project, “Controlling Dynamically Disordered Matter for the Energy Transition”, will be carried out at the Materials Physics Center (MPC)
