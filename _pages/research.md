@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-I investigate the (microscopic) exotic properties of matter under extreme conditions, mostly high pressure.  
+With my collaborators, we investigate the (microscopic) exotic properties of matter under extreme conditions, mostly high pressure.  
 
-With my collaborators, we are interested in topics such as:  
+We are interested in topics such as:  
 - **Dynamical disorder in crystalline solids**  
   (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
   
