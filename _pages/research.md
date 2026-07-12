@@ -31,6 +31,6 @@ We are interested in topics such as:
   (Schaack *et al.* [PNAS 2019](https://www.pnas.org/doi/10.1073/pnas.1904911116#:~:text=Our%20results%20reveal%20that%20a,Tanaka%20et%20al.%2C%20J.); Ranieri *et al.* [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312665120))
 
 - **Quantum transitions of confined H<sub>2</sub>, nuclear quantum effects**  
-  (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of))
+  (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of); Frost *et al.* [Comm. Chemistry 2025](https://doi.org/10.1038/s42004-025-01509-y))
 
 I am frequently using large-scale facilities for my experiments, including synchrotrons and neutron sources. I am also very interested in developing new methodologies for pushing the boundaries of experimental techniques.  
