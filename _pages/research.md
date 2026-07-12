@@ -25,7 +25,7 @@ We are interested in topics such as:
    (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w))
   
 - **Synthesis and structural characterization of new compounds**  
-  (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702))
+  (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Laniel *et al.* [Adv. Funct. Mater. 2025](https://doi.org/10.1002/adfm.202416892))
 
 - **Water and clathrates, hydrogen bonding**  
   (Schaack *et al.* [PNAS 2019](https://www.pnas.org/doi/10.1073/pnas.1904911116#:~:text=Our%20results%20reveal%20that%20a,Tanaka%20et%20al.%2C%20J.); Ranieri *et al.* [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312665120); Frost *et al.* [Comm. Chemistry 2025](https://doi.org/10.1038/s42004-025-01509-y))
