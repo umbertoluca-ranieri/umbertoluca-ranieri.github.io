@@ -32,7 +32,7 @@ We are interested in topics such as:
 <!--Schaack *et al.* [PNAS 2019](https://www.pnas.org/doi/10.1073/pnas.1904911116#:~:text=Our%20results%20reveal%20that%20a,Tanaka%20et%20al.%2C%20J.);  -->
 
 - **Quantum transitions of confined H<sub>2</sub>, nuclear quantum effects**  
-  (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of))
+  (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of); Di Cataldo *et al.* [Phys. Rev. Lett. 2024](https://doi.org/10.1103/PhysRevLett.133.236101))
 
 - **Hard, ultra-incompressible materials**  
  (Liang *et al.* [Adv. Funct. Mater. 2024](https://doi.org/10.1002/adfm.202313819); Laniel *et al.* [Adv. Funct. Mater. 2025](https://doi.org/10.1002/adfm.202416892))
