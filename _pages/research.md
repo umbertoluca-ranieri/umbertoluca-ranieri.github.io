@@ -9,7 +9,9 @@ nav_order: 2
 
 With my collaborators, we investigate the exotic behaviour of matter under extreme conditions, mostly high pressure.  
 
-We are interested in microscopic properties such as:  
+Pressure is a powerful tool for tuning the fundamental properties of matter at the microscopic level. Understanding how materials respond under extreme conditions provides valuable insights that can guide the design of novel materials with advanced technological applications.
+
+We are interested in topics such as:  
 - **Dynamical disorder in crystalline solids**  
   (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
   
