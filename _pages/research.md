@@ -39,4 +39,4 @@ We are interested in topics such as:
 
 I am frequently using large-scale facilities for my experiments, including synchrotrons and neutron sources. I am also very interested in developing new methodologies for pushing the boundaries of experimental techniques.  
 
-A large part of my research on molecular materials is directly relevant for energy-related applications. Some is relavant for planetary science.
+A large part of my research on molecular materials is directly relevant for energy-related applications. Some is relavant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://dx.doi.org/10.1098/rsta.2018.0262)).
