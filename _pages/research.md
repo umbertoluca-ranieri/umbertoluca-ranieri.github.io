@@ -21,12 +21,12 @@ We are interested in topics such as:
 - **Reactivity and polymorphism in simple model systems**     
   (Koller *et al.* [Angew. Chem. 2024](https://onlinelibrary.wiley.com/doi/10.1002/anie.202318214); Aslandukov *et al.* [JACS 2024](https://doi.org/10.1021/jacs.4c06068); Ranieri *et al.* [JACS 2025](https://doi.org/10.1021/jacs.5c09198))
   
+- **Synthesis and structural characterization of new compounds**  
+  (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
+  
 - **Pressure–temperature phase diagram of small molecules**  
    (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w))
   
-- **Synthesis and structural characterization of new compounds**  
-  (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
-
 - **Water and clathrates, hydrogen bonding**  
   (Schaack *et al.* [PNAS 2019](https://www.pnas.org/doi/10.1073/pnas.1904911116#:~:text=Our%20results%20reveal%20that%20a,Tanaka%20et%20al.%2C%20J.); Ranieri *et al.* [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312665120); Frost *et al.* [Comm. Chemistry 2025](https://doi.org/10.1038/s42004-025-01509-y))
 <!-- commented text  -->
