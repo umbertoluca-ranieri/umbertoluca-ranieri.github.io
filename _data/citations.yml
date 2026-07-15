@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-15'
 papers:
   uIu5NpIAAAAJ:-f6ydRqryjwC:
     citations: 4
     title: 'Hydrogen hydrates under extreme conditions: Insights into high-pressure phases and implications for planetary interiors'
     year: '2025'
   uIu5NpIAAAAJ:0EnyYjriUFMC:
-    citations: 9
+    citations: 11
     title: "Simple Molecules under High\u2010Pressure and High\u2010Temperature Conditions: Synthesis and Characterization of \u03B1\u2010 and \u03B2\u2010C(NH)2 with Fully sp3\u2010Hybridized Carbon"
     year: '2024'
   uIu5NpIAAAAJ:2osOgNQ5qMEC:
@@ -62,7 +62,7 @@ papers:
     title: "Structure determination of \u03B6-N2 from single-crystal X-ray diffraction and theoretical suggestion for the formation of amorphous nitrogen"
     year: '2023'
   uIu5NpIAAAAJ:ULOm3_A8WrAC:
-    citations: 34
+    citations: 35
     title: Observation of plastic ice VII by quasi-elastic neutron scattering
     year: '2025'
   uIu5NpIAAAAJ:UeHWp8X0CEIC:
@@ -94,11 +94,11 @@ papers:
     title: High-Pressure Synthesis of the First Thermodynamically Stable Silver Nitride, AgN5
     year: '2026'
   uIu5NpIAAAAJ:eQOLeE2rZwMC:
-    citations: 25
+    citations: 26
     title: Diffusion in dense supercritical methane from quasi-elastic neutron scattering measurements
     year: '2021'
   uIu5NpIAAAAJ:hqOjcs7Dif8C:
-    citations: 27
+    citations: 30
     title: Crossover from gas-like to liquid-like molecular diffusion in a simple supercritical fluid
     year: '2024'
   uIu5NpIAAAAJ:kNdYIx-mwKoC:
@@ -110,7 +110,7 @@ papers:
     title: "High-Pressure Synthesis of Two Pb3(C3N6) Polymorphs Featuring Fully Deprotonated [C3N6]6\u2013 Melaminate Anions"
     year: '2025'
   uIu5NpIAAAAJ:qUcmZB5y_30C:
-    citations: 3
+    citations: 4
     title: Implications of high-pressure oxygen hydrates on radiolytic oxygen in Jovian icy moons
     year: '2025'
   uIu5NpIAAAAJ:qxL8FJ1GzNcC:
@@ -126,6 +126,6 @@ papers:
     title: Quantum Dynamics of H2 and D2 Confined in Hydrate Structures as a Function of Pressure and Temperature
     year: '2018'
   uIu5NpIAAAAJ:zYLM7Y9cAGgC:
-    citations: 35
+    citations: 36
     title: Observation of methane filled hexagonal ice stable up to 150 GPa
     year: '2019'
