@@ -24,7 +24,7 @@ We are interested in topics such as:
 - **Synthesis and structural characterization of new compounds**  
   (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
   
-  - **Polymorphism in simple model systems**     
+- **Polymorphism in simple model systems**     
   (Koller *et al.* [Angew. Chem. 2024](https://onlinelibrary.wiley.com/doi/10.1002/anie.202318214))
 
 - **Reactivity and emergence of new chemical species**  
