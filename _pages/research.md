@@ -7,9 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-With my collaborators, we investigate the exotic behaviour of matter under extreme conditions, mostly high pressure.  
-
-Pressure is a powerful tool for tuning the fundamental properties of matter at the microscopic level. Understanding how materials respond under extreme conditions provides valuable insights that can guide the design of novel materials with advanced technological applications.
+Pressure is a powerful tool for tuning the fundamental properties of matter. With my collaborators, we investigate the exotic behaviour of matter under extreme conditions, mostly high pressure.  Understanding how materials respond under extreme conditions at the microscopic level provides valuable insights that can guide the design of novel materials with advanced technological applications.
 
 We are interested in topics such as:  
 - **Dynamical disorder in crystalline solids**  
