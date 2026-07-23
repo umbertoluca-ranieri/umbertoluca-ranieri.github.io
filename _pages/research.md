@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-With my collaborators, we investigate the exotic behaviour of matter under extreme conditions, mostly high pressure.  Understanding how materials respond under extreme conditions at the microscopic level provides valuable insights that can guide the design of novel materials with advanced technological applications. In the lab, we can easily subject the samples to pressures of the order of a kbar to megabar (1000 to 1000000 times atmospheric pressure).
+With my collaborators, we investigate the exotic behaviour of matter under extreme conditions, mostly high pressure.  Understanding how materials respond under extreme conditions at the microscopic level provides valuable insights that can guide the design of novel materials with advanced technological applications. In the lab, we can easily subject the samples to pressures in the range of a kbar to a megabar (1000 to 1000000 times atmospheric pressure).
 
 I am interested in topics such as:  
 - **Dynamical disorder in crystalline solids**  
