@@ -11,13 +11,16 @@ With my collaborators, we investigate the exotic behaviour of matter under extre
 
 In the lab, we can easily subject our samples to pressures in the range of a kbar to a megabar (1,000 to 1,000,000 times atmospheric pressure).  
 
-I am interested in topics such as:  
+My ten main research topics are:  
 - **Dynamical disorder in crystalline solids**  
   (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
   
 - **Molecular diffusion in compressed fluids**  
   (Ranieri *et al.* [Nature Comm. 2021](https://www.nature.com/articles/s41467-021-22182-4); Ranieri *et al.* [Nature Comm. 2024](https://www.nature.com/articles/s41467-024-47961-7))
-  
+
+- **Collective excitations in liquid water**  
+(Ranieri *et al.* [J. Phys. Chem. B 2016](https://doi.org/10.1021/acs.jpcb.6b04142))
+
 - **Pressure–temperature phase diagram of small molecules**  
    (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w))
   
