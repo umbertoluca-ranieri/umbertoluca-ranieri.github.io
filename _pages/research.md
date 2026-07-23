@@ -13,7 +13,7 @@ In the lab, we can easily subject our samples to pressures in the range of a kba
 
 I am interested in topics such as:  
 - **Dynamical disorder in crystalline solids**  
-  (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
+  (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [](https://doi.org/10.1021/acs.jpcb.3c00681); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
   
 - **Molecular diffusion in compressed fluids**  
   (Ranieri *et al.* [Nature Comm. 2021](https://www.nature.com/articles/s41467-021-22182-4); Ranieri *et al.* [Nature Comm. 2024](https://www.nature.com/articles/s41467-024-47961-7))
