@@ -33,7 +33,7 @@ Currently, I am a Research Fellow ("Gipuzkoa Fellow") in the [Quantum Beams & Co
 
 I have a PhD in physics from EPFL (Switzerland) and previous research experience at HPSTAR Shanghai (China), Sapienza Università di Roma (Italy) and the University of Edinburgh (UK).  
 
-  
+With my collaborators, I spend a lot of time squeezing matter until it starts behaving strangely. Sometimes "strangely" means a material that shouldn't exist suddenly does. 
 
 
     
