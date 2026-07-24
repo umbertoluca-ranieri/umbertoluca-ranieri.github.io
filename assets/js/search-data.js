@@ -433,7 +433,7 @@ ninja.data = [{
           section: "News",},{id: "news-we-will-be-hosting-a-seminar-by-prof-sven-friedemann-university-of-bristol-uk-as-part-of-the-ongoing-cfm-colloquium-series",
           title: 'We will be hosting a seminar by Prof. Sven Friedemann (University of Bristol,...',
           description: "",
-          section: "News",},{id: "news-exciting-news-we-have-been-granted-a-proyecto-de-generación-del-conocimiento-from-the-spanish-ministry-of-science-innovation-and-universities-congratulations-to-the-pi-of-the-project-dr-yue-wen-fang-from-csic",
+          section: "News",},{id: "news-exciting-news-we-have-been-granted-a-proyecto-de-generación-del-conocimiento-from-the-spanish-ministry-of-science-innovation-and-universities-congratulations-to-the-pi-of-the-project-dr-yue-wen-fang-csic",
           title: 'Exciting news! We have been granted a Proyecto de Generación del Conocimiento from...',
           description: "",
           section: "News",},{id: "projects-project-1",
