@@ -7,9 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-With my collaborators, we investigate the exotic behaviour of matter under extreme conditions, mostly high pressure.  Understanding how materials respond under extreme conditions at the microscopic level provides valuable insights that can guide the design of novel materials with advanced technological applications. 
-
-In the lab, we can easily subject our samples to pressures in the range of a kbar to a megabar (1,000 to 1,000,000 times atmospheric pressure).  
+With my collaborators, we investigate the exotic behaviour of matter under extreme conditions, mostly high pressure.  Understanding how materials respond under extreme conditions at the microscopic level provides valuable insights that can guide the design of novel materials with advanced technological applications.    
 
 My ten main research topics are:  
 - **Dynamical disorder in crystalline solids**  
@@ -43,6 +41,8 @@ My ten main research topics are:
 - **Hard, ultra-incompressible materials**  
  (Liang *et al.* [Adv. Funct. Mater. 2024](https://doi.org/10.1002/adfm.202313819); Laniel *et al.* [Adv. Funct. Mater. 2025](https://doi.org/10.1002/adfm.202416892); Liang *et al.* [Phys. Rev. B 2026](https://doi.org/10.1103/v5kf-svcz))
 
-Pressure is a powerful tool for tuning the fundamental properties of matter. A large part of my research on molecular materials is directly relevant for energy-related applications. Some of it is relevant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://dx.doi.org/10.1098/rsta.2018.0262)).  
+Pressure is a powerful tool for tuning the fundamental properties of matter. In the lab, we can easily subject our samples to pressures in the range of a kbar to a megabar (1,000 to 1,000,000 times atmospheric pressure).  
+
+A large part of my research on molecular materials is directly relevant for energy-related applications. Some of it is relevant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://dx.doi.org/10.1098/rsta.2018.0262)).  
 
 I am frequently using large-scale facilities for my experiments, including synchrotrons and neutron sources. I am also very interested in developing new methodologies for pushing the boundaries of experimental techniques.  
