@@ -39,7 +39,7 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 - **Molecular diffusion in compressed fluids**  
   (Ranieri *et al.* [Nature Comm. 2021](https://www.nature.com/articles/s41467-021-22182-4); Ranieri *et al.* [Nature Comm. 2024](https://www.nature.com/articles/s41467-024-47961-7))
 
-- **Collective excitations in liquid water**  
+- **Collective excitations in dense liquid water**  
 (Ranieri *et al.* [J. Phys. Chem. B 2016](https://doi.org/10.1021/acs.jpcb.6b04142))
 
 A large part of my research on molecular materials is directly relevant for energy-related applications. Some of it is relevant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://dx.doi.org/10.1098/rsta.2018.0262)).  
