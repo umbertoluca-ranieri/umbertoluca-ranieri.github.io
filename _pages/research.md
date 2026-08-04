@@ -9,7 +9,7 @@ nav_order: 2
 
 Pressure is a powerful tool for tuning the fundamental properties of matter. In the lab, we can easily subject our samples to pressures in the range of a kbar to a megabar (1,000 to 1,000,000 times atmospheric pressure).   
 
-I investigate the exotic behaviour of matter under extreme conditions, mostly high pressure.  Understanding how materials respond under extreme conditions at the microscopic level provides valuable insights that can guide the design of novel materials with advanced technological applications.    
+I investigate the exotic behavior of matter under extreme conditions, mostly high pressure.  Understanding how materials respond under extreme conditions at the microscopic level provides valuable insights that can guide the design of novel materials with advanced technological applications.    
 
 Here's what I've been obsessing over lately:  
 <!-- My ten main research topics are:  -->
