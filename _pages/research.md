@@ -21,9 +21,6 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 - **Synthesis and structural characterization of new compounds**  
   (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
 
-- **Hard, ultra-incompressible materials**  
- (Liang *et al.* [Adv. Funct. Mater. 2024](https://doi.org/10.1002/adfm.202313819); Laniel *et al.* [Adv. Funct. Mater. 2025](https://doi.org/10.1002/adfm.202416892); Liang *et al.* [Phys. Rev. B 2026](https://doi.org/10.1103/v5kf-svcz))
-
 - **Reactivity and emergence of new chemical species**  
 (Aslandukov *et al.* [JACS 2024](https://doi.org/10.1021/jacs.4c06068); Ranieri *et al.* [JACS 2025](https://doi.org/10.1021/jacs.5c09198); Spender *et al.* [JACS 2026](https://doi.org/10.1021/jacs.6c07507))
 
@@ -32,6 +29,9 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
   
 - **Dynamical disorder in crystalline solids**  
   (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
+
+- **Hard, ultra-incompressible materials**  
+ (Liang *et al.* [Adv. Funct. Mater. 2024](https://doi.org/10.1002/adfm.202313819); Laniel *et al.* [Adv. Funct. Mater. 2025](https://doi.org/10.1002/adfm.202416892); Liang *et al.* [Phys. Rev. B 2026](https://doi.org/10.1103/v5kf-svcz))
 
 - **Quantum transitions of H<sub>2</sub> confined within nanocages**  
   (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of); Di Cataldo *et al.* [Phys. Rev. Lett. 2024](https://doi.org/10.1103/PhysRevLett.133.236101))
