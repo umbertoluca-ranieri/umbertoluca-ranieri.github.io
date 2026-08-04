@@ -11,17 +11,7 @@ Pressure is a powerful tool for tuning the fundamental properties of matter. In 
 
 I investigate the exotic behavior of matter under extreme conditions, mostly high pressure.  Understanding how materials respond to extreme conditions at the microscopic level provides fundamental insights that can guide the design of advanced materials for future technological applications.    
 
-Here's what I've been obsessing over lately:  
-<!-- My ten main research topics are:  -->
-- **Dynamical disorder in crystalline solids**  
-  (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
-  
-- **Molecular diffusion in compressed fluids**  
-  (Ranieri *et al.* [Nature Comm. 2021](https://www.nature.com/articles/s41467-021-22182-4); Ranieri *et al.* [Nature Comm. 2024](https://www.nature.com/articles/s41467-024-47961-7))
-
-- **Collective excitations in liquid water**  
-(Ranieri *et al.* [J. Phys. Chem. B 2016](https://doi.org/10.1021/acs.jpcb.6b04142))
-
+Here's what I've been obsessing over lately:  <!-- My ten main research topics are:  -->
 - **Pressure–temperature phase diagrams of small light molecules**  
    (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w))
   
@@ -32,7 +22,18 @@ Here's what I've been obsessing over lately:
   (Koller *et al.* [Angew. Chem. Int. Ed. 2024](https://onlinelibrary.wiley.com/doi/10.1002/anie.202318214); Liang *et al.* [JACS Au 2026](https://doi.org/10.1021/jacsau.5c01135))
 
 - **Reactivity and emergence of new chemical species**  
-(Aslandukov *et al.* [JACS 2024](https://doi.org/10.1021/jacs.4c06068); Ranieri *et al.* [JACS 2025](https://doi.org/10.1021/jacs.5c09198); Spender *et al.* [JACS 2026](https://doi.org/10.1021/jacs.6c07507))
+(Aslandukov *et al.* [JACS 2024](https://doi.org/10.1021/jacs.4c06068); Ranieri *et al.* [JACS 2025](https://doi.org/10.1021/jacs.5c09198); Spender *et al.* [JACS 2026](https://doi.org/10.1021/jacs.6c07507))  
+
+- **Dynamical disorder in crystalline solids**  
+  (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
+  
+- **Molecular diffusion in compressed fluids**  
+  (Ranieri *et al.* [Nature Comm. 2021](https://www.nature.com/articles/s41467-021-22182-4); Ranieri *et al.* [Nature Comm. 2024](https://www.nature.com/articles/s41467-024-47961-7))
+
+- **Collective excitations in liquid water**  
+(Ranieri *et al.* [J. Phys. Chem. B 2016](https://doi.org/10.1021/acs.jpcb.6b04142))
+
+
 
 - **Ice clathrates, hydrogen bonding**  
   (Schaack *et al.* [PNAS 2019](https://doi.org/10.1073/pnas.1904911116); Ranieri *et al.* [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312665120); Frost *et al.* [Comm. Chemistry 2025](https://doi.org/10.1038/s42004-025-01509-y))
