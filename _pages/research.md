@@ -27,7 +27,7 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 - **Reactivity and emergence of new chemical species**  
 (Aslandukov *et al.* [JACS 2024](https://doi.org/10.1021/jacs.4c06068); Ranieri *et al.* [JACS 2025](https://doi.org/10.1021/jacs.5c09198); Spender *et al.* [JACS 2026](https://doi.org/10.1021/jacs.6c07507))
 
-- **Ice clathrates, hydrogen bonding**  
+- **Clathrate hydrates, hydrogen bonding**  
   (Schaack *et al.* [PNAS 2019](https://doi.org/10.1073/pnas.1904911116); Ranieri *et al.* [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312665120); Frost *et al.* [Comm. Chemistry 2025](https://doi.org/10.1038/s42004-025-01509-y))
   
 - **Dynamical disorder in crystalline solids**  
