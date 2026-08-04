@@ -22,7 +22,7 @@ Here's what I've been obsessing over lately:
 - **Collective excitations in liquid water**  
 (Ranieri *et al.* [J. Phys. Chem. B 2016](https://doi.org/10.1021/acs.jpcb.6b04142))
 
-- **Pressure–temperature phase diagram of small molecules**  
+- **Pressure–temperature phase diagrams of small light molecules**  
    (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w))
   
 - **Synthesis and structural characterization of new compounds**  
