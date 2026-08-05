@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+[Markdean.info/groupnotes/](https://markdean.info/groupnotes/) 
+
 [Snowcrystals.com](https://snowcrystals.com/)  
 
 [Neutron scattering lengths](https://www.ncnr.nist.gov/resources/n-lengths/)  
