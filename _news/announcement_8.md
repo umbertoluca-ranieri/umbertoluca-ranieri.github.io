@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-07-15
+date: 2026-08-11
 inline: true
 related_posts: false
 ---
 
-Exciting news! We have been granted a *Proyecto de Generación del Conocimiento* from the Spanish Ministry of Science, Innovation and Universities. Congratulations to the PI of the project Dr. Yue-Wen Fang (CSIC)
+We have been granted funding from the Regional Government for our *INKER* project!
