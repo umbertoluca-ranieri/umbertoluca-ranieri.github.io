@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-17'
 papers:
   uIu5NpIAAAAJ:-f6ydRqryjwC:
     citations: 4
     title: 'Hydrogen hydrates under extreme conditions: Insights into high-pressure phases and implications for planetary interiors'
     year: '2025'
   uIu5NpIAAAAJ:0EnyYjriUFMC:
-    citations: 11
+    citations: 10
     title: "Simple Molecules under High\u2010Pressure and High\u2010Temperature Conditions: Synthesis and Characterization of \u03B1\u2010 and \u03B2\u2010C(NH)2 with Fully sp3\u2010Hybridized Carbon"
     year: '2024'
   uIu5NpIAAAAJ:2osOgNQ5qMEC:
@@ -22,7 +22,7 @@ papers:
     title: High-pressure synthesis of an arsenopyrite-type polymorph of ReS2 recoverable to ambient conditions
     year: '2026'
   uIu5NpIAAAAJ:4TOpqqG69KYC:
-    citations: 11
+    citations: 14
     title: "High\u2010Pressure Synthesis of oP28\u2010C3N4 Recoverable to Ambient Conditions"
     year: '2025'
   uIu5NpIAAAAJ:8k81kl-MbHgC:
@@ -46,11 +46,11 @@ papers:
     title: Temperature-and pressure-dependence of the hydrogen bond network in plastic ice VII
     year: '2022'
   uIu5NpIAAAAJ:MXK_kJrjxJIC:
-    citations: 21
+    citations: 23
     title: "High\u2010Pressure Synthesis of Ultra\u2010Incompressible, Hard and Superconducting Tungsten Nitrides"
     year: '2024'
   uIu5NpIAAAAJ:R3hNpaxXUhUC:
-    citations: 1
+    citations: 0
     title: 'Erratum: Giant Splitting of the Hydrogen Rotational Eigenenergies in the C2 Filled Ice [Phys. Rev. Lett. 133, 236101 (2024)]'
     year: '2025'
   uIu5NpIAAAAJ:RHpTSmoSYBkC:
@@ -58,11 +58,11 @@ papers:
     title: "High-pressure formation and characterization of a boron carbide polymorph featuring bent C\u2013B\u2013C chains"
     year: '2026'
   uIu5NpIAAAAJ:Se3iqnhoufwC:
-    citations: 26
+    citations: 29
     title: "Structure determination of \u03B6-N2 from single-crystal X-ray diffraction and theoretical suggestion for the formation of amorphous nitrogen"
     year: '2023'
   uIu5NpIAAAAJ:ULOm3_A8WrAC:
-    citations: 35
+    citations: 37
     title: Observation of plastic ice VII by quasi-elastic neutron scattering
     year: '2025'
   uIu5NpIAAAAJ:UeHWp8X0CEIC:
@@ -78,7 +78,7 @@ papers:
     title: "Structural phase transition in NH\u2084F under extreme pressure conditions"
     year: '2024'
   uIu5NpIAAAAJ:_FxGoFyzp5QC:
-    citations: 34
+    citations: 35
     title: Formation and stability of dense methane-hydrogen compounds
     year: '2022'
   uIu5NpIAAAAJ:_Qo2XoVZTnwC:
@@ -90,7 +90,7 @@ papers:
     title: Fast methane diffusion at the interface of two clathrate structures
     year: '2017'
   uIu5NpIAAAAJ:e5wmG9Sq2KIC:
-    citations: 1
+    citations: 2
     title: High-Pressure Synthesis of the First Thermodynamically Stable Silver Nitride, AgN5
     year: '2026'
   uIu5NpIAAAAJ:eQOLeE2rZwMC:
@@ -98,15 +98,19 @@ papers:
     title: Diffusion in dense supercritical methane from quasi-elastic neutron scattering measurements
     year: '2021'
   uIu5NpIAAAAJ:hqOjcs7Dif8C:
-    citations: 30
+    citations: 32
     title: Crossover from gas-like to liquid-like molecular diffusion in a simple supercritical fluid
     year: '2024'
+  uIu5NpIAAAAJ:iH-uZ7U-co4C:
+    citations: 0
+    title: "High-Pressure Investigation of the I\u2212 N System: Discovery of the Nitric Ozonide [N3] 3\u2212(\u201COzonitride\u201D) Species and Multicenter Bonding in Iodine Frameworks"
+    year: '2026'
   uIu5NpIAAAAJ:kNdYIx-mwKoC:
     citations: 9
     title: Synthesis of LaCN3, TbCN3, CeCN5, and TbCN5 Polycarbonitrides at Megabar Pressures
     year: '2024'
   uIu5NpIAAAAJ:mB3voiENLucC:
-    citations: 4
+    citations: 5
     title: "High-Pressure Synthesis of Two Pb3(C3N6) Polymorphs Featuring Fully Deprotonated [C3N6]6\u2013 Melaminate Anions"
     year: '2025'
   uIu5NpIAAAAJ:qUcmZB5y_30C:
@@ -122,7 +126,7 @@ papers:
     title: Low-temperature dynamics of water confined in unidirectional hydrophilic zeolite nanopores
     year: '2023'
   uIu5NpIAAAAJ:u5HHmVD_uO8C:
-    citations: 19
+    citations: 20
     title: Quantum Dynamics of H2 and D2 Confined in Hydrate Structures as a Function of Pressure and Temperature
     year: '2018'
   uIu5NpIAAAAJ:zYLM7Y9cAGgC:
