@@ -33,11 +33,11 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 - **Hard, ultra-incompressible materials**  
  (Liang *et al.* [Adv. Funct. Mater. 2024](https://doi.org/10.1002/adfm.202313819); Laniel *et al.* [Adv. Funct. Mater. 2025](https://doi.org/10.1002/adfm.202416892); Liang *et al.* [Phys. Rev. B 2026](https://doi.org/10.1103/v5kf-svcz))
 
-- **Quantum transitions of H<sub>2</sub> confined within nanocages**  
-  (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of); Di Cataldo *et al.* [Phys. Rev. Lett. 2024](https://doi.org/10.1103/PhysRevLett.133.236101))
-
 - **Molecular diffusion in compressed fluids**  
   (Ranieri *et al.* [J. Phys. Chem. B 2016](https://doi.org/10.1021/acs.jpcb.6b04142); Ranieri *et al.* [Nature Comm. 2021](https://www.nature.com/articles/s41467-021-22182-4); Ranieri *et al.* [Nature Comm. 2024](https://www.nature.com/articles/s41467-024-47961-7))
+  
+- **Quantum transitions of H<sub>2</sub> confined within nanocages**  
+  (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of); Di Cataldo *et al.* [Phys. Rev. Lett. 2024](https://doi.org/10.1103/PhysRevLett.133.236101))
 
 - **Hydrogen-bond symmetrization**  
 (Monacelli *et al.* [Phys. Rev. B 2025](https://journals.aps.org/prb/abstract/10.1103/1cgl-mklx))  
