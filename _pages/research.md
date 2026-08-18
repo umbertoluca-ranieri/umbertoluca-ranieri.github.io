@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-Pressure is a powerful tool for tuning the fundamental properties of matter. In the lab, we can easily subject very small samples to pressures in the range of a kbar to a megabar (1&thinsp;000 to 1&thinsp;000&thinsp;000 times atmospheric pressure).   
+Pressure is a powerful tool for tuning the fundamental properties of matter. In the lab, we can easily subject our (very small) samples to pressures in the range of a kbar to a megabar (1&thinsp;000 to 1&thinsp;000&thinsp;000 times atmospheric pressure).   
 
 I investigate the exotic behavior of matter under extreme conditions, mostly high pressure.  Understanding how materials respond to extreme conditions at the microscopic level provides fundamental insights that can guide the design of advanced materials for future technological applications.    
 
@@ -37,10 +37,9 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
   (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of); Di Cataldo *et al.* [Phys. Rev. Lett. 2024](https://doi.org/10.1103/PhysRevLett.133.236101))
 
 - **Molecular diffusion in compressed fluids**  
-  (Ranieri *et al.* [Nature Comm. 2021](https://www.nature.com/articles/s41467-021-22182-4); Ranieri *et al.* [Nature Comm. 2024](https://www.nature.com/articles/s41467-024-47961-7))
+  (Ranieri *et al.* [J. Phys. Chem. B 2016](https://doi.org/10.1021/acs.jpcb.6b04142); Ranieri *et al.* [Nature Comm. 2021](https://www.nature.com/articles/s41467-021-22182-4); Ranieri *et al.* [Nature Comm. 2024](https://www.nature.com/articles/s41467-024-47961-7))
 
-- **Collective excitations in dense liquid water**  
-(Ranieri *et al.* [J. Phys. Chem. B 2016](https://doi.org/10.1021/acs.jpcb.6b04142))
+<!--- **Collective excitations in dense liquid water**   -->
 
 A large part of my research on molecular materials is directly relevant for energy-related applications. Some of it is relevant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://dx.doi.org/10.1098/rsta.2018.0262)).  
 
