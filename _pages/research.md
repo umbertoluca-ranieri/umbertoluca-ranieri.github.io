@@ -40,7 +40,7 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
   (Ranieri *et al.* [J. Phys. Chem. C 2019](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b11606); Ranieri *et al.* [J. Chem. Phys. 2024](https://pubs.aip.org/aip/jcp/article/160/16/164706/3283564/Large-cage-occupation-and-quantum-dynamics-of); Di Cataldo *et al.* [Phys. Rev. Lett. 2024](https://doi.org/10.1103/PhysRevLett.133.236101))
 
 - **Hydrogen-bond symmetrization**  
-(Monacelli *et al.* [Phys. Rev. B 2025](https://journals.aps.org/prb/abstract/10.1103/1cgl-mklx))  
+(Monacelli *et al.* [Phys. Rev. B 2025](https://journals.aps.org/prb/abstract/10.1103/1cgl-mklx); Schaack *et al.* [J. Phys. Chem. C 2018](https://doi.org/10.1021/acs.jpcc.8b02783))  
 
 <!--- **Collective excitations in dense liquid water**   -->
 
