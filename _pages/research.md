@@ -15,10 +15,9 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 - **Polymorphism in nitrogen and simple nitrogen-rich systems**     
   (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Koller *et al.* [Angew. Chem. Int. Ed. 2024](https://onlinelibrary.wiley.com/doi/10.1002/anie.202318214))
 
-<!---  Liang *et al.* [JACS Au 2026](https://doi.org/10.1021/jacsau.5c01135))-->
-  
+<!---  (Liang *et al.* [JACS Au 2026](https://doi.org/10.1021/jacsau.5c01135))-->
 <!--- **Pressure–temperature phase diagrams of small light molecules**  -->
-<!---   (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w))-->
+<!---   (Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w))-->
   
 - **Synthesis and structural characterization of new compounds**  
   (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
