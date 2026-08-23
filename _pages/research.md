@@ -28,7 +28,10 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
   (Schaack *et al.* [PNAS 2019](https://doi.org/10.1073/pnas.1904911116); Ranieri *et al.* [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312665120); Frost *et al.* [Comm. Chemistry 2025](https://doi.org/10.1038/s42004-025-01509-y))
   
 - **Dynamical disorder in crystalline solids**  
-  (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
+  (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681))
+
+- **Plastic water ice**   
+  (Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
 
 - **Hard, ultra-incompressible materials**  
  (Liang *et al.* [Adv. Funct. Mater. 2024](https://doi.org/10.1002/adfm.202313819); Laniel *et al.* [Adv. Funct. Mater. 2025](https://doi.org/10.1002/adfm.202416892); Liang *et al.* [Phys. Rev. B 2026](https://doi.org/10.1103/v5kf-svcz))
