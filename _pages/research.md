@@ -13,7 +13,9 @@ I investigate the exotic behavior of matter under extreme conditions, mostly hig
 
 Here's what I've been obsessing over lately:  <!-- My ten main research topics are:  -->
 - **Polymorphism in simple model systems**     
-  (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Koller *et al.* [Angew. Chem. Int. Ed. 2024](https://onlinelibrary.wiley.com/doi/10.1002/anie.202318214); Liang *et al.* [JACS Au 2026](https://doi.org/10.1021/jacsau.5c01135))
+  (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Koller *et al.* [Angew. Chem. Int. Ed. 2024](https://onlinelibrary.wiley.com/doi/10.1002/anie.202318214))
+
+<!---  Liang *et al.* [JACS Au 2026](https://doi.org/10.1021/jacsau.5c01135))-->
   
 <!--- **Pressure–temperature phase diagrams of small light molecules**  -->
 <!---   (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w))-->
