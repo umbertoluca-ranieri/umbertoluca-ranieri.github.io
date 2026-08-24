@@ -12,7 +12,7 @@ My position is funded by the *Diputación Foral de Gipuzkoa*.
 
 The research project focuses on dynamically disordered molecular materials for energy-related applications, kinetics of phase transformations, and confinement in crystalline guest-host systems.  
 
-I am also grateful for the support of large-scale facilities: the Institut Laue-Langevin and European Synchrotron Radiation Facility in Grenoble, France, and the ISIS Neutron and Muon Source at RAL near Oxford, UK.
+I am also grateful for the support of large-scale facilities: the Institut Laue-Langevin and European Synchrotron Radiation Facility in Grenoble, France, the ISIS Neutron and Muon Source at RAL near Oxford, UK, and ALBA in Barcelona.
 
 ![]({{ "/assets/img/og_image.png" | relative_url }}){: style="display:block; margin:auto; width:100%; max-width:600px;" }
 
