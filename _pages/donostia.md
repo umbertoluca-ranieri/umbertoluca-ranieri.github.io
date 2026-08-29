@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Gallery
-permalink: /gallery/
-description: Some photos I took in the lab over the years
+permalink: /donostia/
+description: Some photos I took of our beautiful San Sebastian
 nav: true
 nav_order: 6
 ---
