@@ -39,10 +39,10 @@ ninja.data = [{
           },
         },{id: "nav-gallery",
           title: "Gallery",
-          description: "Some photos I took in the lab over the years",
+          description: "Some photos I took of our beautiful San Sebastian",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/gallery/";
+            window.location.href = "/donostia/";
           },
         },{id: "nav-links",
           title: "Links",
