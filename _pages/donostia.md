@@ -51,12 +51,12 @@ nav_order: 6
 <div class="container-fluid px-3 mt-4">  <!-- FIXED -->
   <div class="masonry">
 
-    <a href="../assets/img/IMG_20260618_132344439_MFNR-jpg" data-lightbox="gallery">
-      <img src="../assets/img/IMG_20260618_132344439_MFNR-jpg" class="img-fluid rounded">
+    <a href="../assets/img/IMG_20260618_132344439_MFNR.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20260618_132344439_MFNR.jpg" class="img-fluid rounded">
     </a>
     
-    <a href="../assets/img/IMG_20260731_205323111_HDR.jpeg" data-lightbox="gallery">
-      <img src="../assets/img/IMG_20260731_205323111_HDR.jpeg" class="img-fluid rounded">
+    <a href="../assets/img/IMG_20260731_205323111_HDR.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20260731_205323111_HDR.jpg" class="img-fluid rounded">
     </a>
 
     <a href="../assets/img/IMG_20260804_211451339_HDR.jpg" data-lightbox="gallery">
