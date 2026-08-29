@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: San Sebastian
 permalink: /donostia/
 description: Some photos I took of our beautiful San Sebastian
 nav: true
