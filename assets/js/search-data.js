@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "nav-san-sebastian",
-          title: "San Sebastian",
-          description: "Some photos I took of our beautiful San Sebastian",
+        },{id: "nav-san-sebastián",
+          title: "San Sebastián",
+          description: "Some recent photos I took of our beautiful San Sebastián",
           section: "Navigation",
           handler: () => {
             window.location.href = "/donostia/";
