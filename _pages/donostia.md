@@ -63,12 +63,12 @@ nav_order: 6
       <img src="../assets/img/IMG_20260804_211451339_HDR.jpg" class="img-fluid rounded">
     </a>
     
-    <a href="../assets/img/IMG_20260814_182542524_HDR.jpg" data-lightbox="gallery">
-      <img src="../assets/img/IMG_20260814_182542524_HDR.jpg" class="img-fluid rounded">
+    <a href="../assets/img/IMG_20250528_220929_339.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20250528_220929_339.jpg" class="img-fluid rounded">
     </a>
 
-    <a href="../assets/img/IMG_20260815_172333205_HDR.jpg" data-lightbox="gallery">
-      <img src="../assets/img/IMG_20260815_172333205_HDR.jpg" class="img-fluid rounded">
+    <a href="../assets/img/IMG_20250926_194800_257.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20250926_194800_257.jpg" class="img-fluid rounded">
     </a>
 
     <a href="../assets/img/IMG_20260613_214230205_HDR.jpg" data-lightbox="gallery">
