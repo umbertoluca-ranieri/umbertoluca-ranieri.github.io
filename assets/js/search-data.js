@@ -419,8 +419,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-on-january-1-i-started-my-gipuzkoa-fellowship-my-project-controlling-dynamically-disordered-matter-for-the-energy-transition-will-be-carried-out-at-the-materials-physics-center-mpc",
-          title: 'On January 1, I started my Gipuzkoa Fellowship. My project, “Controlling Dynamically Disordered...',
+            },},{id: "news-today-i-started-my-gipuzkoa-fellowship-my-project-controlling-dynamically-disordered-matter-for-the-energy-transition-will-be-carried-out-at-the-materials-physics-center-mpc",
+          title: 'Today I started my Gipuzkoa Fellowship. My project, “Controlling Dynamically Disordered Matter for...',
           description: "",
           section: "News",},{id: "news-prof-elena-solana-madruga-universidad-complutense-de-madrid-spain-will-visit-our-group-and-will-be-giving-a-seminar-as-part-of-the-ongoing-cfm-neutron-scattering-series",
           title: 'Prof. Elena Solana Madruga (Universidad Complutense de Madrid, Spain) will visit our group...',
