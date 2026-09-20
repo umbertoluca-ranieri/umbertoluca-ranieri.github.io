@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-On January 1, I started my Gipuzkoa Fellowship. My project, “Controlling Dynamically Disordered Matter for the Energy Transition”, will be carried out at the Materials Physics Center (MPC)
+Today I started my Gipuzkoa Fellowship. My project, “Controlling Dynamically Disordered Matter for the Energy Transition”, will be carried out at the Materials Physics Center (MPC)
