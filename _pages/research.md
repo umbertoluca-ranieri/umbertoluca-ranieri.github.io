@@ -9,7 +9,7 @@ nav_order: 2
 
 Pressure is a powerful tool for tuning the properties of matter. In the lab, we can easily subject our (very small) samples to pressures in the range of a kilobar to a megabar (1&thinsp;000 to 1&thinsp;000&thinsp;000 times atmospheric pressure).   
 
-I investigate the exotic behavior of matter under extreme conditions, mostly small light molecules under high pressure.  Understanding how materials respond at the microscopic level provides fundamental insights that can guide the design of advanced materials for future technological applications.    
+I investigate the exotic behavior of matter under extreme conditions, focusing mostly on small light molecules under high pressure.  Understanding how materials respond at the microscopic level provides fundamental insights that can guide the design of advanced materials for future technological applications.    
 
 Here's what I've been obsessing over lately:  <!-- My ten main research topics are:  -->
 - **Polymorphism in nitrogen and simple nitrogen-rich systems**     
@@ -52,6 +52,6 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 
 A large part of my research is directly relevant for energy-related applications. Some of it is relevant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://dx.doi.org/10.1098/rsta.2018.0262)).  
 
-I am frequently using large-scale facilities for my experiments, including synchrotrons and neutron sources. A crucial element of my work consists in developing new methodologies for pushing the boundaries of experimental techniques.  
+I frequently use large-scale facilities for my experiments, including synchrotrons and neutron sources. A crucial part of my work is developing new methods that push the boundaries of experimental techniques.  
 
 Currently I am also contributing to technical developments for future compact neutron sources, in collaboration with people who know a lot more than me about particle physics.
