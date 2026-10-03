@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have been granted funding from the Regional Government for our *INKER* project!
+We have been awarded funding by the Regional Government for our *INKER* project!
