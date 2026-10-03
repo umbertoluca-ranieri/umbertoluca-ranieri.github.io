@@ -10,8 +10,8 @@ nav_order: 5
 
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Masonry Gallery with Zoom</title>
+<!--  <meta charset="UTF-8"> -->
+<!--  <title>Masonry Gallery with Zoom</title> -->
 
   <!-- Bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
