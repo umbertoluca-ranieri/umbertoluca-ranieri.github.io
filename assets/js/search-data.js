@@ -422,7 +422,7 @@ ninja.data = [{
             },},{id: "news-today-i-started-my-gipuzkoa-fellowship-my-project-controlling-dynamically-disordered-matter-for-the-energy-transition-will-be-carried-out-at-the-materials-physics-center-mpc",
           title: 'Today I started my Gipuzkoa Fellowship. My project, “Controlling Dynamically Disordered Matter for...',
           description: "",
-          section: "News",},{id: "news-prof-elena-solana-madruga-universidad-complutense-de-madrid-spain-will-visit-our-group-and-will-be-giving-a-seminar-as-part-of-the-ongoing-cfm-neutron-scattering-series",
+          section: "News",},{id: "news-prof-elena-solana-madruga-universidad-complutense-de-madrid-spain-will-visit-our-group-and-give-a-seminar-as-part-of-the-ongoing-cfm-neutron-scattering-series",
           title: 'Prof. Elena Solana Madruga (Universidad Complutense de Madrid, Spain) will visit our group...',
           description: "",
           section: "News",},{id: "news-we-will-be-hosting-a-seminar-by-prof-elisa-borfecchia-university-of-turin-italy-as-part-of-the-ongoing-cfm-colloquium-series",
