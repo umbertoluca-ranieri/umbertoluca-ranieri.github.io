@@ -52,4 +52,6 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 
 A large part of my research is directly relevant for energy-related applications. Some of it is relevant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://dx.doi.org/10.1098/rsta.2018.0262)).  
 
-I am frequently using large-scale facilities for my experiments, including synchrotrons and neutron sources. I am very interested in developing new methodologies for pushing the boundaries of experimental techniques. I am also contributing to technical developments for future compact neutron sources and related technologies.
+I am frequently using large-scale facilities for my experiments, including synchrotrons and neutron sources. A crucial element of my work consists in developing new methodologies for pushing the boundaries of experimental techniques.  
+
+Currently I am also contributing to technical developments for future compact neutron sources, in collaboration with people who know a lot more than me about particle physics.
