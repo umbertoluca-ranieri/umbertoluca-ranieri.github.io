@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-On June 15-16, I will co-organize a workshop on Neutron Diffraction led by Dr. Matthias Gutmann from the ISIS Neutron and Muon Source (UK). See more info [here](https://cfm.ehu.es/cfm_news/neutron-diffraction-workshop/)
+On June 15-16, I will co-organize a workshop on Neutron Diffraction led by Dr. Matthias Gutmann from the ISIS Neutron and Muon Source (UK). Details on the [CFM website](https://cfm.ehu.es/cfm_news/neutron-diffraction-workshop/)
