@@ -12,6 +12,9 @@ Pressure is a powerful tool for tuning the properties of matter. In the lab, we 
 I investigate the exotic behavior of matter under extreme conditions, focusing mostly on small light molecules under high pressure.  Understanding how materials respond at the microscopic level provides fundamental insights that can guide the design of advanced materials for future technological applications.    
 
 Here's what I've been obsessing over:  <!-- My ten main research topics are:  -->
+- **Synthesis and structural characterization of new compounds**  
+  (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
+  
 - **Polymorphism in nitrogen and simple nitrogen-rich systems**     
   (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Koller *et al.* [Angew. Chem. Int. Ed. 2024](https://onlinelibrary.wiley.com/doi/10.1002/anie.202318214))
 
@@ -21,17 +24,14 @@ Here's what I've been obsessing over:  <!-- My ten main research topics are:  --
 <!---   (Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w))-->
 <!---  Leon PRB 2025-->
 
-- **Synthesis and structural characterization of new compounds**  
-  (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
-
-- **Reactivity and emergence of new chemical species**  
-(Aslandukov *et al.* [JACS 2024](https://doi.org/10.1021/jacs.4c06068); Ranieri *et al.* [JACS 2025](https://doi.org/10.1021/jacs.5c09198); Spender *et al.* [JACS 2026](https://doi.org/10.1021/jacs.6c07507))
-  
 - **Dynamical disorder in crystalline solids**  
   (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681))
 
 - **Plastic water ice**   
   (Toffano *et al.* [J. Chem. Phys. 2022](https://doi.org/10.1063/5.0111189); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
+
+- **Reactivity and emergence of new chemical species**  
+(Aslandukov *et al.* [JACS 2024](https://doi.org/10.1021/jacs.4c06068); Ranieri *et al.* [JACS 2025](https://doi.org/10.1021/jacs.5c09198); Spender *et al.* [JACS 2026](https://doi.org/10.1021/jacs.6c07507))
 
 - **Structural phase transitions in gas clathrate hydrates**  
   (Schaack *et al.* [PNAS 2019](https://doi.org/10.1073/pnas.1904911116); Ranieri *et al.* [PNAS 2023](https://www.pnas.org/doi/10.1073/pnas.2312665120); Frost *et al.* [Comm. Chemistry 2025](https://doi.org/10.1038/s42004-025-01509-y))
