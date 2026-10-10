@@ -18,16 +18,16 @@ Here's what I've been obsessing over:  <!-- My ten main research topics are:  --
 - **Synthesis and structural characterization of new compounds, phase diagrams**  
   (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
   
-<!---   27/29 cited here -->
+<!---   26/29 cited here -->
 <!---  (Liang *et al.* [JACS Au 2026](https://doi.org/10.1021/jacsau.5c01135))-->
 <!--- **Pressure–temperature phase diagrams of small light molecules**  -->
 <!---  Leon PRB 2025-->
+<!--- Toffano *et al.* [J. Chem. Phys. 2022](https://doi.org/10.1063/5.0111189)-->
 
 - **Dynamical disorder in crystalline solids**  
-  (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681))
+  (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
 
-- **Plastic water ice**   
-  (Toffano *et al.* [J. Chem. Phys. 2022](https://doi.org/10.1063/5.0111189); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
+<!---- **Plastic water ice**   -->
 
 - **Reactivity and emergence of new chemical species**  
 (Aslandukov *et al.* [JACS 2024](https://doi.org/10.1021/jacs.4c06068); Ranieri *et al.* [JACS 2025](https://doi.org/10.1021/jacs.5c09198); Spender *et al.* [JACS 2026](https://doi.org/10.1021/jacs.6c07507))
