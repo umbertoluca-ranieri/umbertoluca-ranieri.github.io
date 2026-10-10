@@ -15,7 +15,7 @@ Here's what I've been obsessing over:  <!-- My ten main research topics are:  --
 - **Synthesis and structural characterization of new compounds**  
   (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
   
-- **Polymorphism in nitrogen and simple nitrogen-rich systems**     
+- **Polymorphism in nitrogen and simple nitrogen-rich systems, phase diagrams**     
   (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Koller *et al.* [Angew. Chem. Int. Ed. 2024](https://onlinelibrary.wiley.com/doi/10.1002/anie.202318214))
 
 <!---   26/29 cited here -->
@@ -54,4 +54,4 @@ A large part of my research is directly relevant for energy-related applications
 
 I frequently use large-scale facilities for my experiments, including synchrotrons and neutron sources. A crucial part of my work is developing new methods that push the boundaries of experimental techniques.  
 
-Currently, I am also contributing to technical developments for future compact neutron sources, in collaboration with people who know a lot more than me about particle physics.
+Currently, I am also contributing to technical developments for future compact neutron sources. <!---, in collaboration with people who know a lot more than me about particle physics.-->
