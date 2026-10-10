@@ -29,7 +29,7 @@ latest_posts:
 
 I am a scientist working in the field of experimental condensed matter physics.  
 
-Currently, I am a Research Fellow ("Gipuzkoa Fellow") in the Quantum Beams & Computation for Sustainable Materials group at CFM/MPC - Materials Physics Center in Donostia-San Sebastián. 
+Currently, I am a Research Fellow in the Quantum Beams & Computation for Sustainable Materials group at CFM/MPC - Materials Physics Center in Donostia-San Sebastián. 
 
 <!-- [Quantum Beams & Computation for Sustainable Materials group](https://qbcsm.github.io/)  -->
 
