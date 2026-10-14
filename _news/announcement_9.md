@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-04-15
+date: 2026-03-09
 inline: true
 related_posts: false
 ---
 
-We will be hosting a seminar by Prof. Elisa Borfecchia (University of Turin, Italy) as part of the ongoing CFM Colloquium Series 
+Today I have been officially incorporated in the ongoing PID project of Prof. Felix Fernandez-Alonso as member of the equipo de investigación
