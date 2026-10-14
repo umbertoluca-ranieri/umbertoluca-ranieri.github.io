@@ -425,7 +425,7 @@ ninja.data = [{
           section: "News",},{id: "news-prof-elena-solana-madruga-universidad-complutense-de-madrid-spain-will-visit-our-group-and-give-a-seminar-as-part-of-the-ongoing-cfm-neutron-scattering-series",
           title: 'Prof. Elena Solana Madruga (Universidad Complutense de Madrid, Spain) will visit our group...',
           description: "",
-          section: "News",},{id: "news-today-i-have-been-officially-incorporated-in-the-ongoing-pid-project-of-prof-felix-fernandez-alonso-as-member-of-the-equipo-de-investigación",
+          section: "News",},{id: "news-today-i-have-been-officially-incorporated-in-the-ongoing-pid-project-of-prof-felix-fernandez-alonso-as-a-member-of-the-equipo-de-investigación",
           title: 'Today I have been officially incorporated in the ongoing PID project of Prof....',
           description: "",
           section: "News",},{id: "news-we-will-be-hosting-a-seminar-by-prof-elisa-borfecchia-university-of-turin-italy-as-part-of-the-ongoing-cfm-colloquium-series",
