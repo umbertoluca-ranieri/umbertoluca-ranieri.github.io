@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Today I have been officially incorporated in the ongoing PID project of Prof. Felix Fernandez-Alonso as member of the *equipo de investigación*!
+Today I have been officially incorporated in the ongoing PID project of Prof. Felix Fernandez-Alonso as a member of the *equipo de investigación*!
