@@ -11,7 +11,7 @@ Pressure is a powerful tool for tuning the properties of matter. In the lab, we 
 
 I investigate the exotic behavior of matter under extreme conditions, focusing mostly on small light molecules under high pressure.  Understanding how materials respond at the microscopic level provides fundamental insights that can guide the design of advanced materials for future technological applications.    
 
-Here's what I've been obsessing over:  <!-- My ten main research topics are:  -->
+Here's what I've been obsessing over lately:  <!-- My ten main research topics are:  -->
 - **Dynamical disorder in crystalline solids**  
   (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
   
