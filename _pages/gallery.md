@@ -67,6 +67,10 @@ nav_order: 5
       <img src="../assets/img/IMG-20220925-WA0000.jpg" class="img-fluid rounded">
     </a>
 
+    <a href="../assets/img/WhatsApp.jpg" data-lightbox="gallery">
+      <img src="../assets/img/WhatsApp.jpg" class="img-fluid rounded">
+    </a>
+    
     <a href="../assets/img/IMG-20240125-WA0000.jpg" data-lightbox="gallery">
       <img src="../assets/img/IMG-20240125-WA0000.jpg" class="img-fluid rounded">
     </a>
