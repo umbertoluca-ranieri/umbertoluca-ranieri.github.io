@@ -83,6 +83,14 @@ nav_order: 6
       <img src="../assets/img/IMG_20260522_192717320_HDR.jpg" class="img-fluid rounded">
     </a>
 
+    <a href="../assets/img/IMG_20260923_201716153_HDR.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20260923_201716153_HDR.jpg" class="img-fluid rounded">
+    </a>
+
+    <a href="../assets/img/IMG_20261014_200247599_NV.jpg" data-lightbox="gallery">
+      <img src="../assets/img/IMG_20261014_200247599_NV.jpg" class="img-fluid rounded">
+    </a>
+    
     <a href="../assets/img/IMG_20260416_210713754_MFNR.jpg" data-lightbox="gallery">
       <img src="../assets/img/IMG_20260416_210713754_MFNR.jpg" class="img-fluid rounded">
     </a>
