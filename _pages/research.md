@@ -27,6 +27,7 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 <!---  Leon PRB 2025-->
 <!--- Toffano *et al.* [J. Chem. Phys. 2022](https://doi.org/10.1063/5.0111189)-->
 <!---- **Plastic water ice**   -->
+<!--- **Collective excitations in dense liquid water**   -->
 
 - **Reactivity and emergence of new chemical species**  
 (Aslandukov *et al.* [JACS 2024](https://doi.org/10.1021/jacs.4c06068); Ranieri *et al.* [JACS 2025](https://doi.org/10.1021/jacs.5c09198); Spender *et al.* [JACS 2026](https://doi.org/10.1021/jacs.6c07507))
@@ -46,8 +47,7 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 - **Hydrogen-bond symmetrization**  
   (Schaack *et al.* [J. Phys. Chem. C 2018](https://doi.org/10.1021/acs.jpcc.8b02783); Monacelli *et al.* [Phys. Rev. B 2025](https://journals.aps.org/prb/abstract/10.1103/1cgl-mklx); Marqueño *et al.* Comm. Chemistry 2026)  
 
-<!--- **Collective excitations in dense liquid water**   -->
-
 A large part of my research is relevant to energy-related applications. Some of it is relevant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://doi.org/10.1098/rsta.2018.0262)).  
 
-I frequently visit large-scale facilities worldwide for my experiments, including synchrotrons and neutron sources. A crucial part of my work is developing new methods that push the boundaries of experimental techniques. Currently, I am also contributing to technical developments for future compact neutron sources. <!---, in collaboration with people who know a lot more than me about particle physics.-->
+I frequently visit large-scale facilities worldwide for my experiments, including synchrotrons and neutron sources. A crucial part of my work is developing new methods that push the boundaries of experimental techniques. Currently, I am also contributing to technical developments for future compact neutron sources.   
+<!---, in collaboration with people who know a lot more than me about particle physics.-->
