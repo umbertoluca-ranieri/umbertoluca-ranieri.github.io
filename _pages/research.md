@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-Pressure is a powerful tool for tuning the properties of matter. In the lab, we can easily subject our (very small) samples to pressures ranging from a kilobar to a megabar (1&thinsp;000 to 1&thinsp;000&thinsp;000 times atmospheric pressure).   
+Pressure is a powerful tool for tuning the properties of matter. In the lab, we can easily subject our (very small) samples to static pressures ranging from a kilobar to a megabar (1&thinsp;000 to 1&thinsp;000&thinsp;000 times atmospheric pressure).   
 
 I investigate the exotic behavior of matter under extreme conditions, focusing mostly on small light molecules under high pressure.  Understanding how materials respond at the microscopic level provides fundamental insights that can guide the design of advanced materials for future technological applications.    
 
