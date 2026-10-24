@@ -21,7 +21,7 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 - **Synthesis and structural characterization of new compounds, phase diagrams**  
   (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
   
-<!---   26/29 cited here -->
+<!---   26+2/29+2 cited here -->
 <!---  (Liang *et al.* [JACS Au 2026](https://doi.org/10.1021/jacsau.5c01135))-->
 <!--- **Pressure–temperature phase diagrams of small light molecules**  -->
 <!---  Leon PRB 2025-->
@@ -50,6 +50,6 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 
 A large part of my research is directly relevant for energy-related applications. Some of it is relevant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://doi.org/10.1098/rsta.2018.0262)).  
 
-I frequently use large-scale facilities for my experiments, including synchrotrons and neutron sources. A crucial part of my work is developing new methods that push the boundaries of experimental techniques.  
+I frequently visit large-scale facilities worldwide for my experiments, including synchrotrons and neutron sources. A crucial part of my work is developing new methods that push the boundaries of experimental techniques.  
 
 Currently, I am also contributing to technical developments for future compact neutron sources. <!---, in collaboration with people who know a lot more than me about particle physics.-->
