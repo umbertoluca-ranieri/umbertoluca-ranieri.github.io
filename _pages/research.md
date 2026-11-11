@@ -16,7 +16,7 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
   (Ranieri *et al.* [Nature Comm. 2017](https://www.nature.com/articles/s41467-017-01167-2); Rescigno *et al.* [J. Phys. Chem. B 2023](https://doi.org/10.1021/acs.jpcb.3c00681); Rescigno *et al.* [Nature 2025](https://www.nature.com/articles/s41586-025-08750-4))
   
 - **Polymorphism in nitrogen and simple nitrogen-rich systems**     
-  (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Koller *et al.* [Angew. Chem. Int. Ed. 2024](https://onlinelibrary.wiley.com/doi/10.1002/anie.202318214); Ranieri *et al.* Nature Comm. 2026)
+  (Laniel *et al.* [Nature Comm. 2023](https://www.nature.com/articles/s41467-023-41968-2); Koller *et al.* [Angew. Chem. Int. Ed. 2024](https://onlinelibrary.wiley.com/doi/10.1002/anie.202318214); Ranieri *et al.* [Nature Comm. 2026](https://www.nature.com/articles/s41467-026-79382-z))
   
 - **Synthesis and structural characterization of new compounds, phase diagrams**  
   (Ranieri *et al.* [Phys. Rev. Lett. 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.215702); Ranieri *et al.* [Comm. Chemistry 2024](https://www.nature.com/articles/s42004-024-01309-w); Ranieri *et al.* [Phys. Rev. Materials 2026](https://journals.aps.org/prmaterials/accepted/10.1103/4wwn-75qm))
