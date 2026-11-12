@@ -27,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a scientist working in the field of experimental condensed matter physics.  
+I am a scientist working in the field of experimental materials physics.  
+<!-- experimental condensed matter physics  -->
 
 Currently, I am a Research Fellow in the *Quantum Beams & Computation for Sustainable Materials* group at CFM/MPC - Materials Physics Center in Donostia-San Sebastián. 
 
