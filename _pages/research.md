@@ -8,8 +8,9 @@ nav_order: 2
 ---
 
 Pressure is a powerful tool for tuning the properties of matter. In the lab, we can easily subject our (very small) samples to static pressures ranging from a kilobar to a megabar (1&thinsp;000 to 1&thinsp;000&thinsp;000 times atmospheric pressure).   
+With my collaborators, I spend a lot of time squeezing matter until it starts behaving strangely. Sometimes "strangely" means a material that shouldn't exist suddenly does. 
 
-I investigate the exotic behavior of matter under extreme conditions, focusing mostly on small light molecules under high pressure.  Understanding how materials respond at the microscopic level provides fundamental insights that can guide the design of advanced materials for future technological applications.    
+<!-- I investigate the exotic behavior of matter under extreme conditions, focusing mostly on small light molecules under high pressure.  -->   
 
 Here's what I've been obsessing over lately:  <!-- My ten main research topics are:  -->
 - **Dynamical disorder in crystalline solids**  
@@ -47,7 +48,7 @@ Here's what I've been obsessing over lately:  <!-- My ten main research topics a
 - **Hydrogen-bond symmetrization**  
   (Schaack *et al.* [J. Phys. Chem. C 2018](https://doi.org/10.1021/acs.jpcc.8b02783); Monacelli *et al.* [Phys. Rev. B 2025](https://journals.aps.org/prb/abstract/10.1103/1cgl-mklx); Marqueño *et al.* Comm. Chemistry 2026)  
 
-A large part of my research is relevant to energy-related applications. Some of it is relevant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://doi.org/10.1098/rsta.2018.0262)).  
+Understanding how materials respond at the microscopic level provides fundamental insights that can guide the design of advanced materials for future technological applications. A large part of my research is relevant to energy-related applications. Some of it is relevant for planetary science (Bove and Ranieri [Phil. Trans. R. Soc. A 2019](http://doi.org/10.1098/rsta.2018.0262)).  
 
 I frequently visit large-scale facilities worldwide for my experiments, including synchrotrons and neutron sources. A crucial part of my work is developing new methods that push the boundaries of experimental techniques. Currently, I am contributing to technical developments for future compact neutron sources.   
 <!---, in collaboration with people who know a lot more than me about particle physics.-->
