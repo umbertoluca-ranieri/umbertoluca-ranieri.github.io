@@ -7,8 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-Pressure is a powerful tool for tuning the properties of matter. In the lab, we can easily subject our (very small) samples to static pressures ranging from a kilobar to a megabar (1&thinsp;000 to 1&thinsp;000&thinsp;000 times atmospheric pressure).   
-With my collaborators, I spend a lot of time squeezing matter until it starts behaving strangely. Sometimes "strangely" means a material that shouldn't exist suddenly does. 
+Pressure is a powerful tool for tuning the properties of matter. In the lab, we can easily subject our (very small) samples to static pressures ranging from a kilobar to a megabar (1&thinsp;000 to 1&thinsp;000&thinsp;000 times atmospheric pressure). With my collaborators, I spend a lot of time squeezing matter until it starts behaving strangely. Sometimes "strangely" means a material that shouldn't exist suddenly does. 
 
 <!-- I investigate the exotic behavior of matter under extreme conditions, focusing mostly on small light molecules under high pressure.  -->   
 
