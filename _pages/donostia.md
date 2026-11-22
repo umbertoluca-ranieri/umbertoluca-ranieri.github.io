@@ -2,7 +2,7 @@
 layout: page
 title: San Sebastián
 permalink: /donostia/
-description: Some recent photos I took of our beautiful San Sebastián
+description: Some recent photos I took of San Sebastián
 nav: true
 nav_order: 6
 ---
