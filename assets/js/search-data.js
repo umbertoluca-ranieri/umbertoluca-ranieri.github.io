@@ -447,7 +447,7 @@ ninja.data = [{
           title: 'We have been granted a Proyecto de Generación del Conocimiento from the Spanish...',
           description: "",
           section: "News",},{id: "news-we-have-been-awarded-funding-by-the-regional-government-for-our-inker-project",
-          title: 'We have been awarded funding by the Regional Government for our INKER project!...',
+          title: 'We have been awarded funding by the Regional Government for our INKER project...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
